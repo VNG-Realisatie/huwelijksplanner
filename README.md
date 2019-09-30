@@ -21,4 +21,4 @@ Een werkend trouwproces zo snel mogelijk gefaseerd in productie brengen bij 1 of
 
 ## Licentie
 Copyright &copy; VNG Realisatie 2018
-Licensed under the [EUPL](https://github.com/VNG-Realisatie/Haal-Centraal-BRK-bevragen/blob/master/LICENCE.md)
+Licensed under the [EUPL](https://github.com/VNG-Realisatie/huwelijksplanner/blob/master/LICENCE.md)
