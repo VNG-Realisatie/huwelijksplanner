@@ -19,5 +19,6 @@ Een werkend trouwproces zo snel mogelijk gefaseerd in productie brengen bij 1 of
 * Gemeente die het trouwproces volgens de productvisie in productie wil nemen
 * Actieve en betrokken stakeholders met gemeenschappelijke visie op het project
 
-# Licentie
-Copyright © VNG Realisatie 2018
+## Licentie
+Copyright &copy; VNG Realisatie 2018
+Licensed under the [EUPL](https://github.com/VNG-Realisatie/Haal-Centraal-BRK-bevragen/blob/master/LICENCE.md)
