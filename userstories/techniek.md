@@ -94,4 +94,4 @@
 ## Als developer zou ik graag één overzicht hebben voor alle repositories (b.v. Jirra)
 
 # Acceptatie criteria
-## Als gebruiker wil ik dat de applicatie WC3G complient is
+## Als gebruiker wil ik dat de applicatie WCAG 2.1 complient is
