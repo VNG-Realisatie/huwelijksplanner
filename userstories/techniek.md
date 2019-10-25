@@ -1,5 +1,5 @@
 # Omgevingen (EPIC)
-# Als developer wil ik dat mijn services worden ontsloten via NLX
+# Als developer wil ik dat mijn services worden ontsloten via [NLX](https://docs.nlx.io/)
 # Als developer wil ik dat mijn aplicaties bevragen via NLX
 # Als developer wil ik doelbinding toepassen
 # Als developer wil ik een definition of done voor componenten (inc test strategie)
