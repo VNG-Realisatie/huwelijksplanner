@@ -1,2 +1,2 @@
-**Alle vragen voor het afnemen van interview voor de huwelijksplanner**
+**Alle vragen voor het afnemen van interviews voor de huwelijksplanner**
 
