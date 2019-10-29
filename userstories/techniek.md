@@ -3,7 +3,6 @@
 ## Als developer wil ik een aparte kubernetes test omgeving voor Trouwplanner
 ## Als developer wil ik een aparte kubernetes acceptatie omgeving voor Trouwplanner
 ## Als developer wil ik graag een devs straat per component
-## Als developer wil ik per componenten automatisch 3 omgevingen hebben (prod, tests en dev)
 ## Als developer wil ik dat mijn services worden ontsloten via [NLX](https://docs.nlx.io/)
 ## Als developer wil ik dat andere services kunnen bevragen via [NLX](https://docs.nlx.io/)
 
