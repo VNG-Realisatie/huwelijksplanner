@@ -6,8 +6,8 @@
 ## Als developer wil ik dat mijn services worden ontsloten via [NLX](https://docs.nlx.io/)
 ## Als developer wil ik dat andere services kunnen bevragen via [NLX](https://docs.nlx.io/)
 
-## Als developer wil ik doelbinding toepassen
-## Als developer wil ik een definition of done voor componenten (inc test strategie)
+## Als product owner wil ik de doelbinding vast kunnen leggen bij gegevensbevragingen
+## Als developer wil ik een definition of done voor componenten
 
 ## Als developer wil ik een stabiele versie van Haal Centraal / Permanente Service om persoons gegevens op te halen
 ## Als developer wil ik overzicht van api's, endpoint, documentatie en repro's
@@ -20,7 +20,7 @@
 # Valideren APIS (Epic)
 
 # TestTools (Epic)
-## Als developer wil ik dat elke user story van daaronwtikkeling voor vergezeld van postman een test senario
+## Als developer wil ik dat elke user story van daaronwtikkeling voor vergezeld van postman een test senario -> onderdeel van DoD
 
 # Test Data (EPIC)
 ## Als developer wil ik open test data om integraal te kunnen testen externe api's (die ook gebruik maken van deze open test data)
