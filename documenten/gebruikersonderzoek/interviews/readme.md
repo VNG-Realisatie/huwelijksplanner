@@ -22,7 +22,7 @@ Bij elke vraag kan toegevoegd worden: Hoe ging dat?
 * Wanneer hebben jullie je voorgenomen huwelijk (ondertrouw) gemeld bij de Gemeente? 
 * Wanneer hebben jullie de trouwdatum met de Gemeente ingepland? En hoeveel tijd zat er tussen de melding voorgenomen huwelijk en het 
 
-# voltooien van het trouwen?
+# Voltooien van het trouwen?
 * Hoe hebben jullie het geregeld met de achternamen?  Wanneer en hoe hebben jullie dat doorgegeven aan de Gemeente?
 * Hoe hebben jullie het geregeld met de trouwambtenaar? Wanneer en hoe hebben jullie dat doorgegeven aan de Gemeente?
 * Hoe hebben jullie het geregeld met de trouwlocatie? Wanneer en hoe hebben jullie dat doorgegeven aan de Gemeente?
