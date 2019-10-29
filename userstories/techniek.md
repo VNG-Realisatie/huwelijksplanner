@@ -8,14 +8,18 @@
 
 ## Als product owner wil ik de doelbinding vast kunnen leggen bij gegevensbevragingen
 ## Als developer wil ik een definition of done voor componenten
+## Als developer wil ik een duidelijke teststrategie
+## Als developer wil ik inzicht in de code coverage
+## Als developer wil ik een review flow inirichten op Github
+## Als developer wil ik een overzicht van onze ontwikkelafspraken / way of working
 
 ## Als developer wil ik een stabiele versie van Haal Centraal / Permanente Service om persoons gegevens op te halen
+## Als developer wil ik scripts/tooling om zelf consistente testdata te genereren.
 ## Als developer wil ik overzicht van api's, endpoint, documentatie en repro's
 
-# Nieuwe Technologien (Epic)
 ## Als developer wil ik borging van bericht gericht denken
 
-# Doorontwikkeling (Epic)
+Tot hier doet Ruben
 
 # Valideren APIS (Epic)
 
@@ -54,6 +58,12 @@
 ## Als developer wil ik instemmingen kunnen aanmaken zonder contact gegevens 
 ## Als developer wil ik dat instemmingen een een return url met session passing kennen //session passing?
 
+Tot hier doet Constantijn
+
+# Autorisatie (Epic)
+# Architectuur (Epic)
+
+
 # common-ground.dev (Epic)
 ## Als developer zou ik graag namespace ondersteuning hebben op de common-ground.dev pagina // m.a.w. OSS namespace project
 ## Als developer zou ik graag een overzicht van (micro) servies hebben op de common-ground dev pagina
@@ -64,7 +74,8 @@
 ## Als developer zou ik graag een overzicht van Test data hebben op de common-ground dev pagina
 
 
-# (EPRIC) Als developer wil ik een uitgebreidere en vernieuwde architectuur plaat
+# Als architect wil ik een actuele architectuurbeschrijving van de trouwplanner
+
 ## Als developer wil ik ERP stijl resources mogenlijkheden
 ## ALs developer wil ik een onafhankelijke frontend voor instemmingen zodat ik deze los kan gebruiken
 ## Als developer zou ik graag free/busy systemetiek willen in de agenda service
@@ -72,6 +83,8 @@
 ## Als developer zou ik graag willen dat de readme.md van de respositories worden aangevuld in lijn met de zge repositories //zge?
 ## Als developer zou ik graag de wishlists van de verschillende repositories terug zien op de common-ground.dev pagina
 ## Als developer zou ik graag repositories aanmelden voor de commonground dev pagina via github labels
+
+Tot hier doet Thijs
 
 ## Als developer zou ik graag vragen over meerdere bronnen willen kunnen cumuleren in één API (common-ground graphql component) //federatieve query of index
 ## Als developer zou ik graag een onderscheid zien tussen DRC/DMS en resources voor webpagina's
@@ -94,3 +107,5 @@
 
 # Acceptatie criteria
 ## Als gebruiker wil ik dat de applicatie WCAG 2.1 complient is
+
+Tot hier doet Matthias
