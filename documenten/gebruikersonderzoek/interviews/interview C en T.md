@@ -1,4 +1,4 @@
-#Interview T (man) en C (vrouw) voor huwelijksplanner
+# Interview T (man) en C (vrouw) voor huwelijksplanner
 Dewi/Jeroen/Rene
 
 Zitten lekker in de huiskamer
@@ -113,11 +113,11 @@ C: Wil de naam als de rest van het gezin, alleen T achternaam.
 
 C T: willen meewerken aan verbeteringen aan de Gemeentelijke dienstverleningen.
 
-#Opmerkelijke inzichten
-Privacy is een belangrijke waarde
-Ze hebben geen idee wat ze bij de gemeente zouden moeten doen
-De gemeente is maar een klein stukje voor ze
-Checklist zou wel fijn zijn, maar reminders is voor T niet fijn. 'De Gemeente moet mij niet gaan vertellen wat ik moet gaan doen'.
-Belangrijkste van getuigen is dat het lukt, niet dat het makkelijk is
-Persoonlijk contact is voor hun belangrijk
+# Opmerkelijke inzichten
+- Privacy is een belangrijke waarde
+- Ze hebben geen idee wat ze bij de gemeente zouden moeten doen
+- De gemeente is maar een klein stukje voor ze
+- Checklist zou wel fijn zijn, maar reminders is voor T niet fijn. 'De Gemeente moet mij niet gaan vertellen wat ik moet gaan doen'.
+- Belangrijkste van getuigen is dat het lukt, niet dat het makkelijk is
+- Persoonlijk contact is voor hun belangrijk
 
