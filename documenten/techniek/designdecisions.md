@@ -3,7 +3,7 @@ Nog te doen:
 - 
 
 We hanteren een 5 lagen architectuur
-We ontwikkelen de huwelijksplanner kanaal & interface kanaalonafhankelijk. Ook laag 4 & 5 zijn van elkaar gescheiden.
+We ontwikkelen de huwelijksplanner kanaal & interface kanaalonafhankelijk. Ook laag 4 & 5 zijn van elkaar gescheiden. Dit is onderdeel van de MVP
 
 We realiseren api's in principe op CRUD basis. Conveniance api's waar nodig voor performance.
 
