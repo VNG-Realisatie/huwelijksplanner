@@ -2,10 +2,10 @@
 
 
 # Product visie:
-Een werkend trouwproces zo snel mogelijk gefaseerd in productie brengen bij 1 of meer gemeenten en daarbij zo min mogelijk concessies doen aan de Common Ground visie.
+Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten als gebruikersinterface) waarmee gemeenten een goed werkend trouwproces kunnen inrichten waarmee de burger ontzorgd wordt bij het plannen van een huwelijk. De huwelijkplanner wordt zo snel mogelijk gefaseerd in productie gebracht bij 1 of meerdere gemeenten. We ontwikkelen de huwelijksplanner conform de visie en principes van common ground en willen met de huwelijksplanner actief bijdragen aan samen organiseren. 
 
 # Doel:
-* Inwoners te ontlasten en faciliteren door ze in staat te stellen vanaf de bank hun huwelijk te regelen
+* Inwoners in staat stellen om snel en eenvoudig vanaf de bank hun huwelijk te regelen.
 * Backoffice van gemeenten die bij het huwelijksproces betrokken zijn, te ontlasten 
 
 # Te zetten stappen:
