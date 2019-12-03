@@ -50,5 +50,5 @@ Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten 
 
 
 ## Licentie
-Copyright &copy; VNG Realisatie 2018
+Copyright &copy; VNG Realisatie 2019
 Licensed under the [EUPL](https://github.com/VNG-Realisatie/huwelijksplanner/blob/master/LICENCE.md)
