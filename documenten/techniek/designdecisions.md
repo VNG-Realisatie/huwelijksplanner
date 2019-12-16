@@ -14,4 +14,9 @@ We gebruiken NLX voor elke call waarbij vertrouwelijke gegevens worden opgevraag
 We hanteren semantic versioning. 
 We hanteren https://docs.geostandaarden.nl/api/API-Strategie/#versioning  als uitgangspunt voor versiebeheer
 
+Api Versioning
+-------
+As per [landelijke API-strategie.](https://geonovum.github.io/KP-APIs/#versioning) we provide/ask major versions in the endpoint and minor versions in header, for this the `API-Version` is used (instead of the `api-version` header used in haal centraal)
 
+__solution__
+We implement both endpoint and header versioning
