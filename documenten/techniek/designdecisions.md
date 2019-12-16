@@ -13,3 +13,7 @@ We gebruiken NLX voor elke call waarbij vertrouwelijke gegevens worden opgevraag
 
 We hanteren semantic versioning. 
 We hanteren https://docs.geostandaarden.nl/api/API-Strategie/#versioning  als uitgangspunt voor versiebeheer
+
+Translations
+-------
+We support translations trough the `Accept-Language` header (read the [docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language)), the fallback language for all messages is English. 
