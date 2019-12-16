@@ -14,3 +14,11 @@ We gebruiken NLX voor elke call waarbij vertrouwelijke gegevens worden opgevraag
 We hanteren semantic versioning. 
 We hanteren https://docs.geostandaarden.nl/api/API-Strategie/#versioning  als uitgangspunt voor versiebeheer
 
+Healthchecks
+-------
+From [issue 154](https://github.com/VNG-Realisatie/huwelijksplanner/issues/154)
+
+For healthchecks we use the health-json principle (or json-health to stay in line with json-ld and json-hal). This means the any endpoint `should` be capable of providing health information concerning that endpoint and services behind it.
+
+__solution__
+The use of a `Content-Type: application/health+json` header returns an health json schema.
