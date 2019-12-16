@@ -13,3 +13,7 @@ We gebruiken NLX voor elke call waarbij vertrouwelijke gegevens worden opgevraag
 
 We hanteren semantic versioning. 
 We hanteren https://docs.geostandaarden.nl/api/API-Strategie/#versioning  als uitgangspunt voor versiebeheer
+
+Errors
+-------
+See [jsonapi](https://jsonapi.org/examples/#error-objects) and the [rfc](https://tools.ietf.org/html/rfc7807). 
