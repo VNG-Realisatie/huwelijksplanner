@@ -4,7 +4,8 @@
 1. Wat doet het en hoe verhoud het zich tot andere componenten (landschap)
 2. Er is een gegevensmodel van het component waar de objecten in staan en hoe deze zich tot elkaar verhouden
 3. Er is een common understanding van de te realiseren functionaliteit
-4. Known design decicions zijn vooraf besproken.
+4. Er is een common understanding van wat er gebouwd / veranderd moet worden
+5. Known design decicions zijn vooraf besproken.
 
 ##Als de bovenstaande 3 punten af zijn dan is de story "Ready"
          
