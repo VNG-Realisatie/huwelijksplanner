@@ -12,10 +12,9 @@
 ##Definition of done
 1. Oas documentatie staat op Github in de juiste repository
 2. Postman scripts (test scripts) zijn beschikbaar en werken
-3. Testscripts zijn aangeleverd aan het API test platform
-4. Containers zijn gepubliceerd op docker-hub
-5. Design decisions en afwijkingen daarop zijn vastgelegd
-6. Voorbeeld implementatie beschikbaar
-7. Redoc moet beschikbaar zijn
-8. Documentatie moet beschikbaar zijn op github-pages
-9. NLX integratie moet werken
+3. Containers zijn gepubliceerd op docker-hub
+4. Design decisions en afwijkingen daarop zijn vastgelegd
+5. Voorbeeld implementatie beschikbaar
+6. Redoc moet beschikbaar zijn
+7. Documentatie moet beschikbaar zijn op github-pages
+8. NLX integratie moet werken
