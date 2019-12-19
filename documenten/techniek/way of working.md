@@ -15,6 +15,7 @@
 3. Containers zijn gepubliceerd op docker-hub
 4. Design decisions en afwijkingen daarop zijn vastgelegd
 5. Voorbeeld implementatie beschikbaar
-6. Redoc moet beschikbaar zijn
-7. Documentatie moet beschikbaar zijn op github-pages
+6. Redoc moet beschikbaar zijn 
 8. NLX integratie moet werken
+
+Nice to have: github pages
