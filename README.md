@@ -30,7 +30,7 @@ Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten 
 * **Issue**: Discusie issue over dit component
 * **Repository**: Locatie van de code van het component
 
-| Component                        | Description | CI/CD | StyleCI | Repository | Issue | 
+| Component                        | Description | CI/CD Straat | StyleCI | Repository | Issue | 
 | -------------------------------- | ----------- | ------| ------- | ---------- | ----- |
 | [Huwelijksplanner UI](https://huwelijksplanner.online) | User Interface for the huwelijksplanner project | ![](https://github.com/ConductionNL/huwelijksplanner-ui/workflows/Docker%20Image%20CI/badge.svg) |[![StyleCI](https://github.styleci.io/repos/225294897/shield?branch=master)](https://github.styleci.io/repos/225294897)|[GitHub](https://github.com/ConductionNL/huwelijksplanner-ui) |  |
 | [Contactcatalogus](https://cc.huwelijksplanner.online) | Het “contacten” component is bedoeld voor het opslaan van contactgegevens van personen en organisaties waarvoor nog geen BSN of KVK nummer bekend is (en dus geen bronverwijzing kan worden gedaan). | ![](https://github.com/ConductionNL/contactcatalogus/workflows/Docker%20Image%20CI/badge.svg) | [![StyleCI](https://github.styleci.io/repos/206145398/shield?branch=master)](https://github.styleci.io/repos/206145398) | [GitHub](https://github.com/ConductionNL/contactcatalogus) | [#236](https://github.com/VNG-Realisatie/huwelijksplanner/issues/236) |
