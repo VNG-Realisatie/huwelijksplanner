@@ -23,12 +23,12 @@ Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten 
 
 **Referentie-implementaties van componenten**
 
--**Component**: De naam van het component en link naar een voorbeeld implementatie
--**Description**: Korte beschrijving van wat het component doet
--**CI/CD**: Resultaat van de Continues Integration en Continues Delivery (Dev) straat, controleerd o.a. op werkenheid van de codebase, draaid test senarios en controleerd op known vulnerabilities
--**Style**: Resultaat van code check, zowel optimalisatie als leesbaarheid
--**Issue**: Discusie issue over dit component
--**Repository**: Locatie van de code van het component
+* **Component**: De naam van het component en link naar een voorbeeld implementatie
+* **Description**: Korte beschrijving van wat het component doet
+* **CI/CD**: Resultaat van de Continues Integration en Continues Delivery (Dev) straat, controleerd o.a. op werkenheid van de codebase, draaid test senarios en controleerd op known vulnerabilities
+* **Style**: Resultaat van code check, zowel optimalisatie als leesbaarheid
+* **Issue**: Discusie issue over dit component
+* **Repository**: Locatie van de code van het component
 
 | Component                        | Description | CI/CD | Repository |
 | -------------------------------- | ----------- | --------------------- | ---------- |
