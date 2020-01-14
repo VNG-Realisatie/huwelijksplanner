@@ -23,7 +23,14 @@ Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten 
 
 **Referentie-implementaties van componenten**
 
-| Component                        | Description | Production deployment | Repository |
+Component: De naam van het component en link naar een voorbeeld implementatie
+Description: Korte beschrijving van wat het component doet
+CI/CD: Resultaat van de Continues Integration en Continues Delivery (Dev) straat, controleerd o.a. op werkenheid van de codebase, draaid test senarios en controleerd op known vulnerabilities
+Style: Resultaat van code check, zowel optimalisatie als leesbaarheid
+Issue: Discusie issue over dit component
+Repository: Locatie van de code van het component
+
+| Component                        | Description | CI/CD | Repository |
 | -------------------------------- | ----------- | --------------------- | ---------- |
 | [Huwelijksplanner UI](https://huwelijksplanner.online)              | User Interface for the huwelijksplanner project | ![](https://github.com/ConductionNL/huwelijksplanner-ui/workflows/Docker%20Image%20CI/badge.svg) |[GitHub](https://github.com/ConductionNL/huwelijksplanner-ui)
 | [Contactcatalogus](https://cc.huwelijksplanner.online)                 | Het “contacten” component is bedoeld voor het opslaan van contactgegevens van personen en organisaties waarvoor nog geen BSN of KVK nummer bekend is (en dus geen bronverwijzing kan worden gedaan). | ![](https://github.com/ConductionNL/contactcatalogus/workflows/Docker%20Image%20CI/badge.svg) | [GitHub](https://github.com/ConductionNL/contactcatalogus)
