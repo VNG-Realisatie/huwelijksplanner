@@ -15,3 +15,13 @@ We hanteren semantic versioning.
 We hanteren https://docs.geostandaarden.nl/api/API-Strategie/#versioning  als uitgangspunt voor versiebeheer
 
 
+Keuzes over het maken van zaken:
+De melding voorgenomen huwelijk behandelen we als zaak. 
+Aanvraag BABS voor een dag, behandelen we als zaak.
+Aanvraag locatie voor een dag, behandelen we als zaak.
+De reservering zelf / het huwelijksdossier, is geen zaak.
+Echter: alle gemaakte zaken, worden wel gerelateerd aan het huwelijksdossier voor een integraal overzicht.
+
+
+
+
