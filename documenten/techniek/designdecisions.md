@@ -27,4 +27,24 @@ Implementatie keuze zaken:
 - We sluiten aan op de nieuwe ZGW standaard / openzaak.
 - Indien openzaak nog niet in productie beschikbaar is, maken we geen zaken aan.
 
+Welke koppelingen worden vanuit de Huwelijksplanner :
+		○ Zaken c.a. op basis van ZGW API
+			§ Zaaktype Huwelijksmelding
+			§ Babs voor 1 dag
+		○ Betalen
+			§ Financieel systeem
+			§ Betaaldienst
+		○ Reserveren
+			§ Locatie
+			§ Babs
+			§ Huwelijksdatum?
+		○ Melding voorgenomen huwelijk
+		○ Personen
+			§ Haal Centraal/BRP (voorkeur)
+			§ Datadistributie
+				□ Conduction vertalen Haal centraal <-> StUF
+		○ Toetsen (verklaring vragen en handmatige toets):
+			§ Curatele
+			§ Bloedverwantschap
+			§ 18+ kan op basis van Haal Centraal
 
