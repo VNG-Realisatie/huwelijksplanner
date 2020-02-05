@@ -23,6 +23,8 @@ Keuzes over het maken van zaken:
 - De reservering zelf / het huwelijksdossier, is geen zaak.
 - Echter: alle gemaakte zaken, worden wel gerelateerd aan het huwelijksdossier voor een integraal overzicht.
 
-
+Implementatie keuze zaken:
+- We sluiten aan op de nieuwe ZGW standaard / openzaak.
+- Indien openzaak nog niet in productie beschikbaar is, maken we geen zaken aan.
 
 
