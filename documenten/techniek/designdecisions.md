@@ -46,4 +46,5 @@ Welke koppelingen worden vanuit de Huwelijksplanner:
 	- Curatele
 	- Bloedverwantschap
 	- 18+ kan op basis van Haal Centraal
-
+- Huwelijksdosser
+	-Koppeling met burgerzaken applicatie
