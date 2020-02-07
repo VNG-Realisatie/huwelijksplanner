@@ -29,7 +29,7 @@ Implementatie keuze zaken:
 
 Welke koppelingen worden vanuit de Huwelijksplanner:
 - Zaken c.a. op basis van ZGW API
-	- Zaaktype Huwelijksmelding
+	- Zaak Melding voorgenomen huwelijk
 	- Babs voor 1 dag
 - Betalen
 	- Financieel systeem
@@ -38,7 +38,6 @@ Welke koppelingen worden vanuit de Huwelijksplanner:
 	- Locatie
 	- Babs
 	- Huwelijksdatum?
-- Melding voorgenomen huwelijk
 - Personen
 	- Haal Centraal/BRP (voorkeur)
 	- Datadistributie
