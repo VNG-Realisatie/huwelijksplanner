@@ -30,18 +30,18 @@ Implementatie keuze zaken:
 Welke koppelingen worden vanuit de Huwelijksplanner:
 - Zaken c.a. op basis van ZGW API
 	- Zaak Melding voorgenomen huwelijk
-	- Babs voor 1 dag
+	- Aanvraag Babs voor 1 dag
+	- Anvraag locatie voor een dag
 - Betalen
 	- Financieel systeem
 	- Betaaldienst
 - Reserveren
-	- Locatie
-	- Babs
-	- Huwelijksdatum?
+	- Locatie -> locaties + beschikbaarheid worden in het locatie & agenda component van de huwelijksplanner bijgehouden
+	- Babs -> babs'en + beschikbaarheid worden in medewerkers component + pdc + agenda component van de huwelijksplanner bijgehouden
+	- Huwelijksdatum -> wordt bijgehouden in de huwelijksplanner
 - Personen
-	- Haal Centraal/BRP (voorkeur)
-	- Datadistributie
-		- Conduction vertalen Haal centraal <-> StUF
+	- Haal Centraal BRP bevragen op moment dat de API door de RVIG beschikbaar wordt gesteld
+	- Conduction vertalen Haal centraal <-> StUF  API wordt gebruikt voor de MVP waarbij op een gemeentelijke datadistributie systeem wordt aangesloten.
 - Toetsen (verklaring vragen en handmatige toets):
 	- Curatele
 	- Bloedverwantschap
