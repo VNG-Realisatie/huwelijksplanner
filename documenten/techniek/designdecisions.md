@@ -53,6 +53,6 @@ Welke koppelingen worden vanuit de Huwelijksplanner:
 - Huwelijksdossier
 	-Koppeling met burgerzaken applicatie
 	
-** Inzet business proces engine **
+**Inzet business proces engine**
 Voor de MVP gebruiken we nog geen proces engine. Keuzes voor na de MVP:
 We zetten in op Camunda Community Edition als proces engine.
