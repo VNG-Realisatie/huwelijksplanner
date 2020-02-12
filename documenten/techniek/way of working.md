@@ -17,5 +17,6 @@
 5. Voorbeeld implementatie beschikbaar
 6. Redoc moet beschikbaar zijn 
 8. NLX integratie moet werken
+9. Datecreated en Date modified moet worden toegevoegd (#350)
 
 Nice to have: github pages
