@@ -19,6 +19,7 @@ We hanteren https://docs.geostandaarden.nl/api/API-Strategie/#versioning  als ui
 **Keuzes over het maken van zaken**
 
 - De melding voorgenomen huwelijk behandelen we als zaak.
+- Aanvraag naamgebruik behandelen we als een zaak.
 - Aanvraag BABS voor een dag, behandelen we als zaak.
 - Aanvraag locatie voor een dag, behandelen we als zaak.
 - De reservering zelf / het huwelijksdossier, is geen zaak.
@@ -33,6 +34,7 @@ Welke koppelingen worden vanuit de Huwelijksplanner:
 	- Zaak Melding voorgenomen huwelijk
 	- Aanvraag Babs voor 1 dag
 	- Anvraag locatie voor een dag
+	- Aanvraag naamgebruik
 - Betalen
 	- Financieel systeem
 	- Betaaldienst
