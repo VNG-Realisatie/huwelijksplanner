@@ -1,21 +1,19 @@
-Nog te doen:
-- Uitwerken Kubernetes omgeving met beschrijving
-- 
 
-We hanteren een 5 lagen architectuur
+**We hanteren een 5 lagen architectuur**
 We ontwikkelen de huwelijksplanner kanaal & interface kanaalonafhankelijk. Ook laag 4 & 5 zijn van elkaar gescheiden. Dit is onderdeel van de MVP
-
+Ook de interface is modulair 
 We realiseren api's in principe op CRUD basis. Conveniance api's waar nodig voor performance.
 
-Ook de interface is modulair 
 
+**NLX**
 We gebruiken NLX voor elke call waarbij vertrouwelijke gegevens worden opgevraagd / waarover verantwoording afgelegd moet kunnen worden. In overige situaties gebruiken we NLX waar dit handig is.
 
+**Versioning**
 We hanteren semantic versioning. 
 We hanteren https://docs.geostandaarden.nl/api/API-Strategie/#versioning  als uitgangspunt voor versiebeheer
 
 
-Keuzes over het maken van zaken:
+**Keuzes over het maken van zaken**
 
 - De melding voorgenomen huwelijk behandelen we als zaak.
 - Aanvraag BABS voor een dag, behandelen we als zaak.
@@ -41,10 +39,10 @@ Welke koppelingen worden vanuit de Huwelijksplanner:
 	- Huwelijksdatum -> wordt bijgehouden in de huwelijksplanner
 - Personen
 	- Haal Centraal BRP bevragen op moment dat de API door de RVIG beschikbaar wordt gesteld
-	- Conduction vertalen Haal centraal <-> StUF  API wordt gebruikt voor de MVP waarbij op een gemeentelijke datadistributie systeem wordt aangesloten.
-- Toetsen (verklaring vragen en handmatige toets):
+	- Conduction vertalen Haal centraal <-> StUF  API wordt gebruikt voor de MVP waarbij op een gemeentelijk datadistributie systeem wordt aangesloten.
+- Toetsen wettelijke vereisten (verklaring vragen en handmatige toets):
 	- Curatele
 	- Bloedverwantschap
-	- 18+ kan op basis van Haal Centraal
-- Huwelijksdosser
+	- 18+  -> kan al op basis van Haal Centraal
+- Huwelijksdossier
 	-Koppeling met burgerzaken applicatie
