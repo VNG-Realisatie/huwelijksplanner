@@ -52,6 +52,9 @@ Welke koppelingen worden vanuit de Huwelijksplanner:
 	- Vraag of je al in een ander land getrouwd bent
 - Huwelijksdossier
 	-Koppeling met burgerzaken applicatie
+- Gebruikers authenticatie
+	- Koppelen met ADFS voorziening van een gemeente
+	- Username & password + MFA
 	
 **Inzet business proces engine**
 
