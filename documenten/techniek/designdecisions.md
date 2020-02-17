@@ -55,7 +55,7 @@ Welke koppelingen worden vanuit de Huwelijksplanner:
 
 - Gebruikers authenticatie
 	- Koppelen met ADFS voorziening van een gemeente
-	- Username & password + MFA
+	- Username & password + MFA voor identiteiten waarbij geen gebruik gemaakt kan worden van een centrale identity store.
 	
 **Inzet business proces engine**
 
