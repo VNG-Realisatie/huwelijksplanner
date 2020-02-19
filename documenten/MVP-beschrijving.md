@@ -45,6 +45,7 @@ Autorisatie en rolbeheer in beheerportaal -> Ja in MVP
 Aanpassingen qua layout: kleuren, logo’s, lettertypes. Ja in MVP
 
 **Wettelijke checks**
+
 Curatele check -> geen mvp. Wel de verklaring van de inwoner vastleggen in de melding
 Bloedverwantschaps check -> geen mvp. Wel de verklaring van de inwoner vastleggen in de melding
 Reeds getrouwd in het buitenland check -> geen mvp. Wel de verklaring van de inwoner vastleggen in de melding
@@ -52,6 +53,7 @@ Onder dwang check -> geen mvp.. Wel de verklaring van de inwoner vastleggen in d
 Leeftijdscheck: Ja in MVP. 
 
 **Koppelingen:**
+
 Koppeling met HaalCentraal BRP: Ja in MVP. Conduction versie.
 Koppeling met openzaak-> Ja->voor melding, aanvraag eigen locatie en aanvraag eigen babs.
 Koppeling met betalingssysteem -> Ja, Ideal -> 
@@ -60,6 +62,7 @@ ADFS koppeling -> Ja. We pakken dan meteen MFA/SSO mee. Als we dit niet doen, mo
 IAM koppelingen -> Nee
 
 **Overig**
+
 Scheiding laag 4&5 -> Nee, Hoorn en Utrecht hebben meer tijd nodig om dit beter uit te werken.
 Inzet BPMN engine -> Nee.
 MijnApp: Technisch wordt er in MVP niet op MijnApp aangesloten / worden hier geen werkzaamheden voor verricht. 
