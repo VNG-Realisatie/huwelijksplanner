@@ -33,7 +33,7 @@ Toevoegen huwelijksassistenten : niet in de MVP. Kan je mogelijk oplossen door d
 Alle functionaliteit die wordt aangeboden aan de inwoner/getuige/babs, moet door een medewerker ook uitgevoerd kunnen worden. Ja in MVP
 Geen management informatie in MVP -> Management info NIET MVP.
 
-**Voor de beheerder: **
+**Voor de beheerder:**
 
 Als medewerker wil ik de producten kunnen bewerken. Ja in MVP: type huwelijken, tarieven, boekje.
 Als medewerker wil ik een locatie kunnen toevoegen/bewerken/verwijderen -> Ja in MVP
