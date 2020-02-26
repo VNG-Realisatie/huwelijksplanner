@@ -12,7 +12,8 @@ Keuze eigen locatie aanbieden in huwelijksplanner --> MVP, inclusief notificatie
 
 Keuze eigen Babs aanbieden in huwelijksplanner --> MVP, inclusief notificatie/bericht naar burger over status
 
-Naamgebruik doorgeven in huwelijksplanner -> Ja, als onderdeel van het plannen het huwelijk. Geen generieke functionaliteit voor aanpassen naamgebruik buiten het plannen van een huwelijk.
+Naamgebruik doorgeven in huwelijksplanner -> Ja, als onderdeel van het plannen het huwelijk. Geen generieke functionaliteit voor aanpassen naamgebruik buiten het plannen van een huwelijk. NOG AAMPASSEN OP PROCES
+
 
 Flitshuwelijk als product aanbieden in huwelijksplanner -> JA
 
@@ -44,7 +45,7 @@ Voor locaties moet de beschikbaarheid door medewerkers aangepast kunnen worden -
 
 Toevoegen huwelijksassistenten : niet in de MVP. Kan je mogelijk oplossen door dit in het opmerkingenveld te plaatsen.
 
-Alle functionaliteit die wordt aangeboden aan de inwoner/getuige/babs, moet door een medewerker ook uitgevoerd kunnen worden. Ja in MVP
+Alle functionaliteit die wordt aangeboden aan de inwoner/getuige/babs, moet door een medewerker ook uitgevoerd kunnen worden. Ja in MVP -> NOG SPECIFIEKER MAKEN OP WELKE ACTIES
 
 Geen management informatie in MVP -> Management info NIET MVP.
 
