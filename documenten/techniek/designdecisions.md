@@ -1,7 +1,7 @@
 
 **We hanteren een 5 lagen architectuur**
 
-We ontwikkelen de huwelijksplanner kanaal & interface onafhankelijk. Ook laag 4 & 5 zijn van elkaar gescheiden. Het scheiden van laag 4 & 5 is echter nog geen onderdeel van de MVP.
+We ontwikkelen de huwelijksplanner kanaal & interface onafhankelijk. Ook laag 4 & 5 zijn van elkaar gescheiden. Het scheiden van laag 4 & 5 is echter maar deels onderdeel van de MVP (alleen voor zaakgerichte processen).
 Ook de interface is modulair 
 We realiseren api's in principe op CRUD basis. Conveniance api's waar nodig voor performance.
 
@@ -27,7 +27,7 @@ We hanteren https://docs.geostandaarden.nl/api/API-Strategie/#versioning  als ui
 
 Implementatie keuze zaken:
 - We sluiten aan op de nieuwe ZGW standaard / openzaak.
-- Indien openzaak nog niet in productie beschikbaar is, maken we geen zaken aan.
+- We implementeren voor de MVP op de OpenZaak via de Camunda engine en BPTL van gemeente Utrecht.
 
 Welke koppelingen worden vanuit de Huwelijksplanner:
 - Zaken c.a. op basis van ZGW API
