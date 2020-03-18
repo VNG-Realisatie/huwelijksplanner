@@ -33,7 +33,7 @@ Welke koppelingen worden vanuit de Huwelijksplanner:
 - Zaken c.a. op basis van ZGW API
 	- Zaak Melding voorgenomen huwelijk
 	- Aanvraag Babs voor 1 dag
-	- Anvraag locatie voor een dag
+	- Aanvraag locatie voor een dag
 	- Aanvraag naamgebruik
 - Betalen
 	- Financieel systeem
