@@ -29,6 +29,8 @@ Implementatie keuze zaken:
 - We sluiten aan op de nieuwe ZGW standaard / openzaak.
 - We implementeren voor de MVP op de OpenZaak via de Camunda engine en BPTL van gemeente Utrecht.
 
+**Koppelingen vanuit de huwelijksplanner**
+
 Welke koppelingen worden vanuit de Huwelijksplanner:
 - Zaken c.a. op basis van ZGW API
 	- Zaak Melding voorgenomen huwelijk
