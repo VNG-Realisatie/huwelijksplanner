@@ -24,6 +24,8 @@ NIET MVP.
 
 Reminders zitten NIET in de MVP
 
+Betaalproces via Ideal: wel in MVP. Inclusief bijbetalen als de reservering wijzigt.
+
 **Voor de instemmer (getuigen/partner/):**
 
 Instemming kunnen geven. In ieder geval voor getuigen en partners JA komt in de MVP
