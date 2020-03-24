@@ -49,6 +49,8 @@ Toevoegen huwelijksassistenten : niet in de MVP. Kan je mogelijk oplossen door d
 
 Alle functionaliteit die wordt aangeboden aan de inwoner/getuige/babs, moet door een medewerker ook uitgevoerd kunnen worden. Ja in MVP -> NOG SPECIFIEKER MAKEN OP WELKE ACTIES
 
+Een medewerker moet een notificatie krijgen als er geld terugbetaald moet worden aan de burger na het wijzigen van een reservering. -> MVP. ECHTER: Het terugbetaalproces zelf, is geen onderdeel van de MVP.
+
 Geen management informatie in MVP -> Management info NIET MVP.
 
 **Voor de beheerder:**
