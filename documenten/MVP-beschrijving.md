@@ -6,7 +6,7 @@ Functionaliteit implementeren we zowel aan de inwoner als medewerker kant zodat 
 
 **Voor de inwoner:**
 
-Melding voorgenomen huwelijk geïntegreerd in huwelijksplanner --> JA, inclusief notificatie/bericht naar burger over status
+Melding voorgenomen huwelijk geïntegreerd in huwelijksplanner --> JA, inclusief notificatie/bericht naar burger over status en verlopen van melding
 
 Keuze eigen locatie aanbieden in huwelijksplanner --> MVP, inclusief notificatie/bericht naar burger over status
 
