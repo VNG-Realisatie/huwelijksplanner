@@ -22,6 +22,8 @@ Dubbele inlog faciliteren voor partner, naast mogelijkheid via instemmingsverzoe
 Ceremonie in andere taal dan Nederlands uitvragen en als product aanbieden in huwelijksplanner. 
 NIET MVP.
 
+Reminders zitten NIET in de MVP
+
 **Voor de instemmer (getuigen/partner/):**
 
 Instemming kunnen geven. In ieder geval voor getuigen en partners JA komt in de MVP
