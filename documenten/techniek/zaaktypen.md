@@ -10,10 +10,11 @@ Verwerkt: https://selectielijst.openzaak.nl/api/v1/resultaten/0fb921b0-4752-4263
 
 Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/ac98caff-760b-46e5-bcea-46dfe8b625f8
 
----------------
+--------------
+
 **Aanvraag eigen BABS (niet beëdigd) behandelen**
 
-UUID: 7110435b-7cd0-4c5c-a14d-110003947279
+UUID: 9edb3c0d-d74a-4eb2-837d-f6833b6f6d79
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Afgehandeld (3)
 
@@ -21,17 +22,17 @@ Eigenschap: Datum ceremonie
 
 Resultaten:
 
-Goedgekeurd: https://selectielijst.openzaak.nl/api/v1/resultaten/6a0b7381-e52a-44b2-b6e4-535c463baf27
+Goedgekeurd: https://selectielijst.openzaak.nl/api/v1/resultaten/cff2391b-656a-4df8-8b70-cb2935be415a 
 
-Afgewezen: https://selectielijst.openzaak.nl/api/v1/resultaten/e6089c84-1722-4342-b24c-888b7d6fcc22
+Afgewezen: https://selectielijst.openzaak.nl/api/v1/resultaten/a3cf5e3b-783b-474f-8306-e0bc6fb98e38 
 
-Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/0e8e7833-e491-44e2-8770-fd23f3f249b0
+Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/393a3081-ef34-4a5f-8f99-1777f4fd2ce3 
 
+------------------------
 
------------------
 **Aanvraag eigen BABS (beëdigd) behandelen**
 
-UUID: 574e52f5-0bc8-451b-9523-b1134424912b
+UUID: 694a10a3-0a97-4e6d-a4e6-a7cadf17b473
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Afgehandeld (3)
 
@@ -39,16 +40,17 @@ Eigenschap: Datum ceremonie
 
 Resultaten:
 
-Goedgekeurd: https://selectielijst.openzaak.nl/api/v1/resultaten/6a0b7381-e52a-44b2-b6e4-535c463baf27
+Goedgekeurd: https://selectielijst.openzaak.nl/api/v1/resultaten/0fb921b0-4752-4263-8d5e-554b2599dadf 
 
-Afgewezen: https://selectielijst.openzaak.nl/api/v1/resultaten/e6089c84-1722-4342-b24c-888b7d6fcc22
+Afgewezen: https://selectielijst.openzaak.nl/api/v1/resultaten/cf3d7245-9bed-4d20-bd44-02f381aca1a1 
 
-Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/0e8e7833-e491-44e2-8770-fd23f3f249b0
+Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/ac98caff-760b-46e5-bcea-46dfe8b625f8 
 
--------------------
+---------
+
 **Aanvraag eigen huwelijkslocatie behandelen**
 
-UUID: 0cf12b67-31ac-4c2f-a5f8-57f9220a6c85
+UUID: eefd0b40-c2ed-44a7-b54e-48872d686a47
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Afgehandeld (3)
 
@@ -56,13 +58,14 @@ Eigenschap: Datum ceremonie, Locatie
 
 Resultaten:
 
-Goedgekeurd: https://selectielijst.openzaak.nl/api/v1/resultaten/b58eb4af-95a0-4148-907b-3732def8c751 
+Goedgekeurd: https://selectielijst.openzaak.nl/api/v1/resultaten/0fb921b0-4752-4263-8d5e-554b2599dadf 
 
-Afgewezen: https://selectielijst.openzaak.nl/api/v1/resultaten/e6089c84-1722-4342-b24c-888b7d6fcc22
+Afgewezen: https://selectielijst.openzaak.nl/api/v1/resultaten/cf3d7245-9bed-4d20-bd44-02f381aca1a1 
 
-Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/0e8e7833-e491-44e2-8770-fd23f3f249b0
+Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/ac98caff-760b-46e5-bcea-46dfe8b625f8 
 
--------------------
+----------------
+
 **Aanvraag wijziging naamgebruik behandelen**
 
 UUID: 9b65120d-eeda-47c7-b473-581a3e6ca445
