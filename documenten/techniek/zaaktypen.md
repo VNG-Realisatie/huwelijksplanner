@@ -1,5 +1,7 @@
 **Melding voorgenomen huwelijk/partnerschap behandelen**
 
+Proces key: Melding_voorgenomen_huwelijk_behandelen
+
 UUID: 28e05004-1754-48cf-bb1e-15525ebdeb0b
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Verwerkt (3)
@@ -13,6 +15,8 @@ Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/ac98caff-760b-4
 --------------
 
 **Aanvraag eigen BABS (niet beëdigd) behandelen**
+
+Proces key: Aanvraag_eigen_Babs_nietbeedigd_behandelen
 
 UUID: 86dcc827-db64-4466-8d83-5d2976a1926a
 
@@ -30,6 +34,8 @@ Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/393a3081-ef34-4
 ------------------------
 
 **Aanvraag eigen BABS (beëdigd) behandelen**
+
+Proces key: Aanvraag_eigen_babs_beedigd_behandelen
 
 UUID: 29f85c3e-0602-4ada-b0be-def8710ea7b1
 
@@ -49,6 +55,8 @@ Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/ac98caff-760b-4
 
 **Aanvraag eigen huwelijkslocatie behandelen**
 
+Proces key: Aanvraag_eigen_locatie_behandelen
+
 UUID: 2ab5dfd8-5285-499c-85be-4325f5084eb9 
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Afgehandeld (3)
@@ -66,6 +74,8 @@ Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/ac98caff-760b-4
 ----------------
 
 **Aanvraag wijziging naamgebruik behandelen**
+
+Proces key: Aanvraag_wijziging_naamgebruik_behandelen
 
 UUID: 804489a3-8a5c-4f7b-b3b1-1e1178da9384
 
