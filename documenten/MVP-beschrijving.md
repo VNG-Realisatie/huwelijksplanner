@@ -10,9 +10,9 @@ Melding voorgenomen huwelijk geïntegreerd in huwelijksplanner --> JA, inclusief
 
 Keuze eigen locatie aanbieden in huwelijksplanner --> MVP, inclusief notificatie/bericht naar burger over status
 
-Keuze eigen Babs aanbieden in huwelijksplanner --> MVP, inclusief notificatie/bericht naar burger over status
+Keuze eigen Babs aanbieden in huwelijksplanner --> MVP, inclusief notificatie/bericht naar burger over status. (Het beëdigingsproces valt buiten scope.)
 
-Naamgebruik doorgeven in huwelijksplanner -> Ja, als onderdeel van het plannen het huwelijk. Geen generieke functionaliteit voor aanpassen naamgebruik buiten het plannen van een huwelijk. NOG AAMPASSEN OP PROCES
+Naamgebruik doorgeven in huwelijksplanner -> Ja, als onderdeel van het plannen het huwelijk. Geen generieke functionaliteit voor aanpassen naamgebruik buiten het plannen van een huwelijk. NOG AANPASSEN OP PROCES
 
 
 Flitshuwelijk als product aanbieden in huwelijksplanner -> JA
@@ -22,7 +22,7 @@ Dubbele inlog faciliteren voor partner, naast mogelijkheid via instemmingsverzoe
 Ceremonie in andere taal dan Nederlands uitvragen en als product aanbieden in huwelijksplanner. 
 NIET MVP.
 
-Reminders zitten NIET in de MVP
+Reminders zitten NIET in de MVP, bevestigingen wel. 
 
 Betaalproces via Ideal: wel in MVP. Inclusief bijbetalen als de reservering wijzigt.
 
@@ -32,7 +32,7 @@ Instemming kunnen geven. In ieder geval voor getuigen en partners JA komt in de 
 
 **Voor de medewerker:**
 
-Goedkeuring eigen locatie en eigen Babs in het medewerkerdashboard -> MVP
+Goedkeuring eigen locatie en eigen Babs in het medewerkerdashboard -> MVP (Deelproces beëdiging rechtbank buiten scope)
 
 Afhandeling melding in het medewerkerdashboard -> Ja, inclusief de notificaties richting inwoner die bij het afhandelproces horen.
 
@@ -73,6 +73,8 @@ Autorisatie en rolbeheer in beheerportaal -> Ja in MVP
 
 Aanpassingen qua layout: kleuren, logo’s, lettertypes. Ja in MVP
 
+Archiveren wel in MVP. Overbrengen/vernietigen niet in MVP.
+
 **Wettelijke checks**
 
 Curatele check -> geen mvp. Wel de verklaring van de inwoner vastleggen in de melding
@@ -101,9 +103,9 @@ IAM koppelingen -> Nee
 
 **Overig**
 
-Scheiding laag 4&5 -> Nee, Hoorn en Utrecht hebben meer tijd nodig om dit beter uit te werken.
+Scheiding laag 4&5 -> Niet voor klantproces, Hoorn en Utrecht hebben meer tijd nodig om dit beter uit te werken. Wel voor zaakgerichte afhandeling van deelprocessen in OpenZaak: melding, eigen locatie, eigen babs en naamgebruik. 
 
-Inzet BPMN engine -> Nee.
+Inzet BPMN engine -> Alleen voor zaakgerichte afhandeling van deelprocessen in OpenZaak: melding, eigen locatie, eigen babs en naamgebruik. Gebruik van Camunda van Utrecht voor MVP.
 
 MijnApp: Technisch wordt er in MVP niet op MijnApp aangesloten / worden hier geen werkzaamheden voor verricht. 
 
