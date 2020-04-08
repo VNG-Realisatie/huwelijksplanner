@@ -8,7 +8,7 @@ Functionaliteit implementeren we zowel aan de inwoner als medewerker kant zodat 
 
 Melding voorgenomen huwelijk geïntegreerd in huwelijksplanner --> JA, inclusief notificatie/bericht naar burger over status en verlopen van melding
 
-Keuze eigen locatie aanbieden in huwelijksplanner --> MVP, inclusief notificatie/bericht naar burger over status
+Keuze eigen locatie aanbieden in huwelijksplanner --> MVP, inclusief notificatie/bericht naar burger over status. Zowel nog te benoemen externe locatie als permanent benoemde externe locatie.
 
 Keuze eigen Babs aanbieden in huwelijksplanner --> MVP, inclusief notificatie/bericht naar burger over status. (Het beëdigingsproces valt buiten scope.)
 
