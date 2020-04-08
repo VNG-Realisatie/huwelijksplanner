@@ -22,7 +22,7 @@ Dubbele inlog faciliteren voor partner, naast mogelijkheid via instemmingsverzoe
 Ceremonie in andere taal dan Nederlands uitvragen en als product aanbieden in huwelijksplanner. 
 NIET MVP.
 
-Reminders zitten NIET in de MVP, bevestigingen wel. 
+Reminders zitten NIET in de MVP, bevestigingen wel. Alle notificaties gaan per e-mail in de MVP.
 
 Betaalproces via Ideal: wel in MVP. Inclusief bijbetalen als de reservering wijzigt.
 
