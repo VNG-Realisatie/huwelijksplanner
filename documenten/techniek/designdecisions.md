@@ -28,6 +28,7 @@ We hanteren https://docs.geostandaarden.nl/api/API-Strategie/#versioning  als ui
 Implementatie keuze zaken:
 - We sluiten aan op de nieuwe ZGW standaard / openzaak.
 - We implementeren voor de MVP op de OpenZaak via de Camunda engine en BPTL van gemeente Utrecht.
+- zowel de Huwelijksplanner als het Medewerkersportaal (voor afhandelen van de huwelijkspocssen) muteren niet zelfstandig zaakinformatie. Dit wordt gedaan via de procesengine.
 
 **Koppelingen vanuit de huwelijksplanner**
 
