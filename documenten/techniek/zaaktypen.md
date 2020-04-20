@@ -2,13 +2,13 @@
 
 Proces key: Melding_voorgenomen_huwelijk_behandelen
 
-UUID: 28e05004-1754-48cf-bb1e-15525ebdeb0b
+UUID: 1ca29793-b797-4d52-953b-2c231fb8a6cf
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Verwerkt (3)
 
 Resultaten:
 
-Verwerkt: https://selectielijst.openzaak.nl/api/v1/resultaten/0fb921b0-4752-4263-8d5e-554b2599dadf
+Verwerkt: https://selectielijst.openzaak.nl/api/v1/resultaten/a3cf5e3b-783b-474f-8306-e0bc6fb98e38
 
 Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/ac98caff-760b-46e5-bcea-46dfe8b625f8
 
@@ -37,7 +37,7 @@ Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/393a3081-ef34-4
 
 Proces key: Aanvraag_eigen_babs_beedigd_behandelen
 
-UUID: 29f85c3e-0602-4ada-b0be-def8710ea7b1
+UUID: 43340378-1c3a-4605-8a64-aa90e400368a
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Afgehandeld (3)
 
@@ -45,7 +45,7 @@ Eigenschap: Datum ceremonie
 
 Resultaten:
 
-Verwerkt: https://selectielijst.openzaak.nl/api/v1/resultaten/0fb921b0-4752-4263-8d5e-554b2599dadf 
+Verwerkt: https://selectielijst.openzaak.nl/api/v1/resultaten/55a27d1f-e01c-4b49-a942-189dbdf7c8cb 
 
 Afgewezen: https://selectielijst.openzaak.nl/api/v1/resultaten/cf3d7245-9bed-4d20-bd44-02f381aca1a1 
 
@@ -57,7 +57,7 @@ Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/ac98caff-760b-4
 
 Proces key: Aanvraag_eigen_locatie_behandelen
 
-UUID: 2ab5dfd8-5285-499c-85be-4325f5084eb9 
+UUID: 7b65e5c8-198d-49fd-9376-f46cc70c84f2 
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Afgehandeld (3)
 
@@ -65,7 +65,7 @@ Eigenschap: Datum ceremonie, Locatie
 
 Resultaten:
 
-Verwerkt: https://selectielijst.openzaak.nl/api/v1/resultaten/0fb921b0-4752-4263-8d5e-554b2599dadf 
+Verwerkt: https://selectielijst.openzaak.nl/api/v1/resultaten/55a27d1f-e01c-4b49-a942-189dbdf7c8cb 
 
 Afgewezen: https://selectielijst.openzaak.nl/api/v1/resultaten/cf3d7245-9bed-4d20-bd44-02f381aca1a1 
 
