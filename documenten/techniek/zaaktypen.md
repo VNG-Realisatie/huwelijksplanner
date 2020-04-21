@@ -61,7 +61,7 @@ UUID: 7b65e5c8-198d-49fd-9376-f46cc70c84f2
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Afgehandeld (3)
 
-Eigenschap: Datum ceremonie, Locatie
+Eigenschap: Datum ceremonie, Locatienaam, Locatieadres
 
 Resultaten:
 
