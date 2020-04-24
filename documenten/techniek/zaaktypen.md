@@ -61,7 +61,12 @@ UUID: 7b65e5c8-198d-49fd-9376-f46cc70c84f2
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Afgehandeld (3)
 
-Eigenschappen: LocatieTelefoonnummer, Locatienaam, Locatieadres(samenvoeging van straat, huisnummer, postcode, plaats), LocatieOmschrijving
+Eigenschappen: 
+
+- locatieTelefoon
+- locatieNaam 
+- locatieAdres(samenvoeging van straat, huisnummer, postcode, plaats) 
+- locatieOmschrijving
 
 Resultaten:
 
