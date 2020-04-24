@@ -61,7 +61,7 @@ UUID: 7b65e5c8-198d-49fd-9376-f46cc70c84f2
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Afgehandeld (3)
 
-Eigenschap: Datum ceremonie, Locatienaam, Locatieadres
+Eigenschappen: LocatieTelefoonnummer, Locatienaam, Locatieadres(samenvoeging van straat, huisnummer, postcode, plaats), LocatieOmschrijving
 
 Resultaten:
 
@@ -70,6 +70,9 @@ Verwerkt: https://selectielijst.openzaak.nl/api/v1/resultaten/55a27d1f-e01c-4b49
 Afgewezen: https://selectielijst.openzaak.nl/api/v1/resultaten/cf3d7245-9bed-4d20-bd44-02f381aca1a1 
 
 Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/ac98caff-760b-46e5-bcea-46dfe8b625f8 
+
+Zaakobject:
+De huwelijksreservering als gerelateerd zaakobject 
 
 ----------------
 
