@@ -57,7 +57,7 @@ Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/ac98caff-760b-4
 
 Proces key: Aanvraag_eigen_locatie_behandelen
 
-UUID: 7b65e5c8-198d-49fd-9376-f46cc70c84f2 
+UUID: bb1e251f-d7a2-4d2a-a8e4-a7236336fcfd
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Afgehandeld (3)
 
