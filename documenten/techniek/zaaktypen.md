@@ -1,6 +1,6 @@
 **Melding voorgenomen huwelijk/partnerschap behandelen**
 
-Proces key: Melding_voorgenomen_huwelijk_behandelen
+Proces ID: Melding_voorgenomen_huwelijk_behandelen
 
 UUID: 1ca29793-b797-4d52-953b-2c231fb8a6cf
 
@@ -16,7 +16,7 @@ Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/ac98caff-760b-4
 
 **Aanvraag eigen BABS (niet beëdigd) behandelen**
 
-Proces key: Aanvraag_eigen_Babs_nietbeedigd_behandelen
+Proces ID: Aanvraag_eigen_Babs_nietbeedigd_behandelen
 
 UUID: 86dcc827-db64-4466-8d83-5d2976a1926a
 
@@ -37,7 +37,7 @@ Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/393a3081-ef34-4
 
 **Aanvraag eigen BABS (beëdigd) behandelen**
 
-Proces key: Aanvraag_eigen_babs_beedigd_behandelen
+Proces ID: Aanvraag_eigen_babs_beedigd_behandelen
 
 UUID: 43340378-1c3a-4605-8a64-aa90e400368a
 
@@ -61,7 +61,7 @@ Ingetrokken: https://selectielijst.openzaak.nl/api/v1/resultaten/ac98caff-760b-4
 
 **Aanvraag eigen huwelijkslocatie behandelen**
 
-Proces key: Aanvraag_eigen_locatie_behandelen
+Proces ID: Aanvraag_eigen_locatie_behandelen
 
 UUID: bb1e251f-d7a2-4d2a-a8e4-a7236336fcfd
 
@@ -89,9 +89,9 @@ De huwelijksreservering als gerelateerd zaakobject
 
 **Aanvraag wijziging naamgebruik behandelen**
 
-Proces key: Aanvraag_wijziging_naamgebruik_behandelen
+Proces ID: Aanvraag_wijziging_naamgebruik_behandelen
 
-UUID: 804489a3-8a5c-4f7b-b3b1-1e1178da9384
+UUID:  13c5e8e1-27e2-47e0-96df-410541176623
 
 Eigenschap: 
 
