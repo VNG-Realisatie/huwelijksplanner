@@ -22,7 +22,9 @@ UUID: 86dcc827-db64-4466-8d83-5d2976a1926a
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Afgehandeld (3)
 
-Eigenschap: Datum ceremonie
+Zaakobject 1: Natuurlijk-Persoon met relatie naar persoonsobject in BRP. Bij relatieomschrijving vullen we in: BABS (niet beëdigd)
+
+Zaakobject 2: Verwijzing naar contactregistratie component naar de contactgegevens van de Babs naar keuze. Bij relatieomschrijving vullen we in: contactgegevens BABS.
 
 Resultaten:
 Toegekend: https://selectielijst.openzaak.nl/api/v1/resultaten/cff2391b-656a-4df8-8b70-cb2935be415a 
@@ -41,7 +43,11 @@ UUID: 43340378-1c3a-4605-8a64-aa90e400368a
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Afgehandeld (3)
 
-Eigenschap: Datum ceremonie
+Zaakobjecten:
+
+Zaakobject 1: Natuurlijk-Persoon met relatie naar persoonsobject in BRP. Bij relatieomschrijving vullen we in: BABS (beëdigd)
+
+Zaakobject 2: Verwijzing naar contactregistratie component naar de contactgegevens van de Babs naar keuze. Bij relatieomschrijving vullen we in: contactgegevens BABS.
 
 Resultaten:
 
@@ -87,7 +93,11 @@ Proces key: Aanvraag_wijziging_naamgebruik_behandelen
 
 UUID: 804489a3-8a5c-4f7b-b3b1-1e1178da9384
 
-Eigenschap: Naamgebruik
+Eigenschap: 
+
+naamgebruikPartner1
+
+naamgebruikPartner2
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Verwerkt (3)
 
