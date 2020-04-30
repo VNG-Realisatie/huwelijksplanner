@@ -6,6 +6,8 @@ Functionaliteit implementeren we zowel aan de inwoner als medewerker kant zodat 
 
 **Voor de inwoner:**
 
+Reservering alleen te starten na inloggen met DigiD. --> MVP. Op webpagina wordt aangegeven dat zonder DigiD alleen aan de balie kan. Na MVP kunnen we dit uitbreiden met eIdas. 
+
 Melding voorgenomen huwelijk geïntegreerd in huwelijksplanner --> JA, inclusief notificatie/bericht naar burger over status en verlopen van melding
 
 Keuze eigen locatie aanbieden in huwelijksplanner --> MVP, inclusief notificatie/bericht naar burger over status. Zowel nog te benoemen externe locatie als permanent benoemde externe locatie.
@@ -28,7 +30,8 @@ Betaalproces via Ideal: wel in MVP. Inclusief bijbetalen als de reservering wijz
 
 **Voor de instemmer (getuigen/partner/):**
 
-Instemming kunnen geven. In ieder geval voor getuigen en partners JA komt in de MVP
+Instemming kunnen geven. In ieder geval voor getuigen en partners JA komt in de MVP, maar alleen met DigiD. 
+
 
 **Voor de medewerker:**
 
