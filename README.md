@@ -56,5 +56,5 @@ Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten 
 | [digispoof](https://digispoof.huwelijksplanner.online) | Trouwapplicatie voor de gemeente Utrecht | | | [GitHub](https://github.com/ConductionNL/digispoof)|
 
 ## Licentie
-Copyright &copy; VNG Realisatie 2019
+Copyright &copy; VNG Realisatie 2020
 Licensed under the [EUPL](https://github.com/VNG-Realisatie/huwelijksplanner/blob/master/LICENCE.md)
