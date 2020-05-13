@@ -43,6 +43,8 @@ UUID: 43340378-1c3a-4605-8a64-aa90e400368a
 
 Statussen: Ontvangen (1), In behandeling genomen (2), Afgehandeld (3)
 
+Informatieobjecttype: Bewijs van beëdiging (UUID: 0108e58c-d9ef-4f8f-80c3-4848de36993f)
+
 Zaakobjecten:
 
 Zaakobject 1: Natuurlijk-Persoon met relatie naar persoonsobject in BRP. Bij relatieomschrijving vullen we in: BABS (beëdigd)
