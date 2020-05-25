@@ -6,6 +6,8 @@ Functionaliteit implementeren we zowel aan de inwoner als medewerker kant zodat 
 
 **Voor de inwoner:**
 
+De inwoner heeft de mogelijkheid om een reserving die aan de mininale indieningsvereisten voldoet, in te dienen -> JA MVP
+
 Reservering alleen te starten na inloggen met DigiD. --> MVP. Op webpagina wordt aangegeven dat zonder DigiD alleen aan de balie kan. Na MVP kunnen we dit uitbreiden met eIdas. 
 
 Melding voorgenomen huwelijk geïntegreerd in huwelijksplanner --> JA, inclusief notificatie/bericht naar burger over status en verlopen van melding
