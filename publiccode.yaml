@@ -1,0 +1,54 @@
+publiccodeYmlVersion: "0.2"
+name: Huwelijksplanner
+url: "https://github.com/VNG-Realisatie/huwelijksplanner"
+softwareVersion: "1"
+releaseDate: "2021-05-06"
+platforms:
+  - web
+categories:
+  - it-development
+usedBy:
+  - Gemeente Utrecht
+developmentStatus: development
+softwareType: standalone/web
+description:
+  nl:
+    localisedName: Huwelijksplanner
+    genericName: Huwelijksplanner
+    shortDescription: >-
+      Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten als gebruikersinterface) waarmee gemeenten een goed werkend trouwproces kunnen inrichten.
+    longDescription: >-
+      Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten als gebruikersinterface) waarmee gemeenten een goed werkend trouwproces kunnen inrichten.
+    documentation: "https://github.com/VNG-Realisatie/Begrafenisplanner/blob/master/README.md"
+    features:
+      - Inwoners in staat stellen om snel en eenvoudig vanaf de bank hun huwelijk te regelen.
+      - Backoffice van gemeenten die bij het huwelijksproces betrokken zijn, te ontlasten
+legal:
+  license: EUPL-1.2
+  mainCopyrightOwner: Conduction
+  repoOwner: Conduction
+maintenance:
+  type: external
+  contacts:
+    - name: Ruben van der Linde
+      email: ruben@conduction.nl
+localisation:
+  localisationReady: true
+  availableLanguages:
+    - nl
+    - en
+dependsOn:
+  open:
+    - name: huwelijksplanner/huwelijksplanner
+    - name: procestypecatalogus/procestypecatalogus
+    - name: verzoektypecatalogus/verzoektypecatalogus
+    - name: verzoekregistratiecomponent/verzoekregistratiecomponent
+    - name: brpservice/brpservice
+    - name: landelijketabellencatalogus/landelijketabellencatalogus
+    - name: productenendienstencatalogus/productenendienstencatalogus
+    - name: orderregistratiecomponent/orderregistratiecomponent
+    - name: user-component/user-component
+    - name: trouw-service/trouw-service
+    - name: medewerkercatalogus/medewerkercatalogus
+    - name: instemmingservice/instemmingservice
+    - name: contacten-catalog/betaalservice
