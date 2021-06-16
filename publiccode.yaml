@@ -19,7 +19,7 @@ description:
       Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten als gebruikersinterface) waarmee gemeenten een goed werkend trouwproces kunnen inrichten.
     longDescription: >-
       Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten als gebruikersinterface) waarmee gemeenten een goed werkend trouwproces kunnen inrichten.
-    documentation: "https://github.com/VNG-Realisatie/Begrafenisplanner/blob/master/README.md"
+    documentation: "https://github.com/VNG-Realisatie/huwelijksplanner/blob/master/README.md"
     features:
       - Inwoners in staat stellen om snel en eenvoudig vanaf de bank hun huwelijk te regelen.
       - Backoffice van gemeenten die bij het huwelijksproces betrokken zijn, te ontlasten
