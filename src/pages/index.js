@@ -24,8 +24,8 @@ import integrationImage from '../images/undraw_hologram_fjwp.svg'
 
 const IndexPage = ({ location }) => (
   <Layout>
-    <SEO title="Demodam is een fictieve gemeentewebsite die laat zien welke herbruikbare open source producten en diensten er beschikbaar zijn voor gemeenten." />
-    <Background backgroundColor="#cbce1c">
+    <SEO title="Huwelijksplanner" />
+    <Background backgroundColor="#CC0000">
       <Container>
         <Navigation as="nav" location={location} />
         <Section>
@@ -33,7 +33,7 @@ const IndexPage = ({ location }) => (
         </Section>
       </Container>
     </Background>
-    <Background backgroundColor="#000000">
+    <Background backgroundColor="#2A5587">
       <Container>
         <Logos />
       </Container>
@@ -113,7 +113,7 @@ const IndexPage = ({ location }) => (
       </Section>
 
     </Container>
-    <Background backgroundColor="#f5f5f6">
+    <Background backgroundColor="#2A5587">
       <Container>
         <Section>
           <Heading align="center" fontSize="2rem">Roadmap</Heading>
