@@ -1,0 +1,66 @@
+{
+  "nl": [
+    {
+      "title": "Nieuws",
+      "link": "/news/",
+      "partiallyActive": false
+    },
+    {
+      "title": "Sluit je aan",
+      "link": "/join",
+      "partiallyActive": true
+    },
+    {
+      "title": "Organisaties",
+      "link": "/organizations",
+      "partiallyActive": false
+    },
+    {
+      "title": "Ambassadeurs",
+      "link": "/ambassadors",
+      "partiallyActive": true
+    },
+    {
+      "title": "Governance",
+      "link": "/governance",
+      "partiallyActive": true
+    },
+    {
+      "title": "Contact",
+      "link": "/contact",
+      "partiallyActive": true
+    }
+  ],
+  "en": [
+    {
+    "title": "News",
+    "link": "/en/news/",
+    "partiallyActive": false
+    },
+    {
+      "title": "Join Demodam",
+      "link": "/en/join",
+      "partiallyActive": true
+    },
+    {
+      "title": "Organizations",
+      "link": "/en/organizations",
+      "partiallyActive": false
+    },
+    {
+      "title": "Ambassadors",
+      "link": "/en/ambassadors",
+      "partiallyActive": true
+    },
+    {
+      "title": "Governance",
+      "link": "/en/governance",
+      "partiallyActive": true
+    },
+    {
+      "title": "Contact",
+      "link": "/en/contact",
+      "partiallyActive": true
+    }
+  ]
+}

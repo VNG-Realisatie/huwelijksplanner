@@ -1,0 +1,10 @@
+# [work in progress] NL Design system
+NL Design system is an easy way of adjusting your (web) application to the design specifications of an organization, its an implementation of the .... w3c group and allows you to incorporate an organizations style by including css variables.
+Use of NL Design System requires an developing party to  do 2 things
+-	Incorporate said variables in their current templates (default values should be your current css values to prevent styling drift)
+-	Load an css script that overwrites the default values of the variables by those supplied by the organization.
+# Incopertating Variables
+The following variables should be included
+
+# Loading the CSS Script
+The CSS script should be loaded during container setup, this means that information regarding an organizations style catalog should be provided as part of it deployment (e.g. Helm or Ansible). 
