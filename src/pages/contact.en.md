@@ -1,28 +1,20 @@
----
-template: "default"
----
 
-## TODO: Contact
+# Contact
+## Product Owner
+Gemeente Utrecht
 
-@@TODO Please add content for contact page. Below is a copy of the openzaak website
+Telefoon 14 030
 
-Do you want to join the community and use OpenZaak?
+Adres  
+Stadskantoor  
+Stadsplateau 1  
+3521AZ Utrecht
+## Technische realisatie
+[Conduction b.v.]( https://www.conduction.nl/)  
+[info@conduction.nl](mailto:info@conduction.nl)  
+[+31 (0)85 3036840](tel:+31(0)853036840)
 
-### Representatives of the Demodam core group
-
-
-
-### Representatives from participating municipalities
-
-
-### Representatives of Demodam vendors
-
-
-## Get in touch with The Demodam Community
-
-
-### Monthly Technical Steering call
-
-
-
-### Monthly Product Steering call
+Lauriergracht 14h  
+1016 RL Amsterdam  
+CoC: 76741850  c
+Vat: NL860784241B01

@@ -16,5 +16,5 @@ Stadsplateau 1
 
 Lauriergracht 14h  
 1016 RL Amsterdam  
-CoC: 76741850  
+CoC: 76741850  c
 Vat: NL860784241B01

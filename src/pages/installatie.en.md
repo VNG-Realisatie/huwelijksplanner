@@ -1,7 +1,6 @@
   
-# Installatie
-De huwelijksplanner applicatie bestaat uit een aantal componenten en een/meerdere ui’s opgebouwd volgens het [commonground vijflagen model]. Hierbij kunnen onderliggende componenten worden gedeeld tussen applicaties, we raden daarom aan om alleen nieuwe componenten te installeren en reeds bestaande componenten te hergebruiken.
-## Componenten
+# Installation
+The wedding planner application consists of a number of components and one/several ui's built according to the [commonground five-layer model]. Underlying components can be shared between applications, so we recommend installing only new components and reusing existing components.
 Het verdient een aanbeveling om de componenten in de hier weergegeven volgorde te installeren  
 
 | Component                        | Repository | Artifacthub |
@@ -27,7 +26,7 @@ Het verdient een aanbeveling om de componenten in de hier weergegeven volgorde t
 | utrecht-trouwen  | [GitHub](https://github.com/ConductionNL/utrecht-trouwen) | 
 | [digispoof](https://componentencatalogus.commonground.nl/producten/74/componenten/171) | [GitHub](https://github.com/ConductionNL/digispoof)| [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/digispoof)](https://artifacthub.io/packages/helm/digispoof-interface/digispoof-interface) |
 
-## Configuratie
-De configuratie van de verschillende componenten vind plaats via de helm installatie van dat component, volg hiervoor de bij het component aangeleverde handleiding.
-## Voorbeeld data
-Nadat de configuratie is afgehandeld kan er voorwoorden gekozen om een zet met voorbeeld gegevens in te laden (voor bijvoorbeeld demo doeleinden). Voer hiervoor de volgende stappen uit
+## Configuration
+The configuration of the various components takes place via the helm installation of that component, follow the manual supplied with the component.
+## Example data
+After the configuration is completed, prefaces can be chosen to load a move with sample data (for example for demo purposes). To do this, perform the following steps

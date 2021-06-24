@@ -7,10 +7,10 @@ const Payoff = () => (
   <StyledContainer>
     <StyledIntro>
       <StyledTextContainer>
-        <StyledHeading>Demodam</StyledHeading>
-        <StyledParagraph>A digital municipality built on open source commonground components</StyledParagraph>
-        <StyledSubParagraph>Demodam is a fictitious municipal website that shows which reusable open source products and services are available for municipalities.</StyledSubParagraph>
-        <StyledSubParagraph><a href="https://commonground.nl/blog/view/6c422c0a-e541-41c8-8261-9c8bc90f4d87/doe-mee-met-demodam-de-common-ground-showcase-website">Read more about Demo dam (dutch)</a></StyledSubParagraph>
+        <StyledHeading>Wedding planner</StyledHeading>
+        <StyledParagraph>An application built on open source commonground components</StyledParagraph>
+        <StyledSubParagraph>With the wedding planner we realize components (both registration components and user interface) with which municipalities can set up a properly functioning wedding process. In this way we add value and unburden citizens when planning a wedding.</StyledSubParagraph>
+        <StyledSubParagraph><a target="_blank" href="https://componentencatalogus.commonground.nl/producten/74/omschrijving">Read more about the wedding planner.</a></StyledSubParagraph>
       </StyledTextContainer>
     </StyledIntro>
     <StyledImage>
