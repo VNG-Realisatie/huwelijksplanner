@@ -27,6 +27,12 @@ Het verdient een aanbeveling om de componenten in de hier weergegeven volgorde t
 | [digispoof](https://componentencatalogus.commonground.nl/producten/74/componenten/171) | [GitHub](https://github.com/ConductionNL/digispoof)| [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/digispoof)](https://artifacthub.io/packages/helm/digispoof-interface/digispoof-interface) |
 
 ## Configuratie
-De configuratie van de verschillende componenten vind plaats via de helm installatie van dat component, volg hiervoor de bij het component aangeleverde handleiding.
+De configuratie van de verschillende componenten vind plaats via de helm installatie van dat component, volg hiervoor de bij het component aangeleverde handleiding. Echter is er een algemeen punt voor alle componenten wat betreft het extern bereikbaar maken van deze componenten:
+
+Om een component naar buiten open te zetten zijn er drie stappen nodig:
+1. De value ingress.enabled moet op true staan
+2. De value ingress.host moet een hostname bevatten die geroute is naar de loadbalancer
+3. De value path moet correct staan. Voor een applicatie kan dit / zijn, maar voor componenten is /api/v1/{componentnaam} of /api/v1/{componentcode} aan te bevelen
+
 ## Voorbeeld data
 Nadat de configuratie is afgehandeld kan er voorwoorden gekozen om een zet met voorbeeld gegevens in te laden (voor bijvoorbeeld demo doeleinden). Voer hiervoor de volgende stappen uit
