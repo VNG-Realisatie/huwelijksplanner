@@ -8,9 +8,9 @@ const Payoff = () => (
     <StyledIntro>
       <StyledTextContainer>
         <StyledHeading>Huwelijksplanner</StyledHeading>
-        <StyledParagraph>Een digitale gemeente gebouwd op open source commonground componenten</StyledParagraph>
-        <StyledSubParagraph>Demodam is een fictieve gemeentewebsite die laat zien welke herbruikbare open source producten en diensten er beschikbaar zijn voor gemeenten.</StyledSubParagraph>
-        <StyledSubParagraph><a href="https://commonground.nl/blog/view/6c422c0a-e541-41c8-8261-9c8bc90f4d87/doe-mee-met-demodam-de-common-ground-showcase-website">Lees hier meer over Demodam</a></StyledSubParagraph>
+        <StyledParagraph>Een applicatie gebouwd op open source commonground componenten</StyledParagraph>
+        <StyledSubParagraph>Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten als gebruikersinterface) waarmee gemeenten een goed werkend trouwproces kunnen inrichten. Daarmee voegen we waarde toe en ontzorgen de burger bij het plannen van een huwelijk.</StyledSubParagraph>
+        <StyledSubParagraph><a target="_blank" href="https://componentencatalogus.commonground.nl/producten/74/omschrijving">Lees hier meer over de huwelijksplanner.</a></StyledSubParagraph>
       </StyledTextContainer>
     </StyledIntro>
     <StyledImage>
