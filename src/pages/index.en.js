@@ -112,7 +112,7 @@ const IndexPage = ({ location }) => (
       </Section>
 
     </Container>
-    <Background backgroundColor="#f5f5f6">
+    <Background backgroundColor="#2A5587">
       <Container>
         <Section>
           <Heading align="center" fontSize="2rem">Roadmap</Heading>
