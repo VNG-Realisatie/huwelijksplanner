@@ -41,7 +41,7 @@ To open a component to the web, three steps are required:
 Before the components are functional, the database will have to be prepared. We do this using the following command:  
 bin/console doctrine:schema:update -f  
 
-From components to application  
+## From components to application  
 The wedding planner application consists of a series of components, in order for them to form an application together it is necessary to make them work together. For this it is necessary to give the central spider in the web (wedding planner service) access to the components so that she can set them up. The necessary configuration is included in the (helm) installation files and description of the wedding planner ui (which includes the wedding planner service). Therefore, install it last and read the installation manual and configuration description carefully before installing the component.
 
 ## Example data
