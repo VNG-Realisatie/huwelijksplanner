@@ -2,6 +2,8 @@
 # Installation
 The wedding planner application consists of a number of components and one/several ui's built according to the [commonground five-layer model]. Underlying components can be shared between applications, so we recommend installing only new components and reusing existing components.
 Het verdient een aanbeveling om de componenten in de hier weergegeven volgorde te installeren  
+## Componenten
+It is recommendend to install the components in the given order  
 
 | Component                        | Repository | Artifacthub |
 | -------------------------------- | ---------- | ---------- |
