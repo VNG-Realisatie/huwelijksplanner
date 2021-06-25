@@ -6,7 +6,7 @@ All components are available as a docker container via github packages (due to t
 ## Componenten
 It is recommendend to install the components in the given order  
 
-| Component                        | Repository | Artifacthub |
+| Component                        | Repository | HELM installation files |
 | -------------------------------- | ---------- | ---------- |
 | [Contactcatalogus](https://componentencatalogus.commonground.nl/producten/74/componenten/26)| [GitHub](https://github.com/ConductionNL/contactcatalogus) | [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/contactcatalogus)](https://artifacthub.io/packages/helm/contact-catalogus/contactcatalogus) |
 | [Locatiecatalogus](https://componentencatalogus.commonground.nl/producten/74/componenten/27)| [GitHub](https://github.com/ConductionNL/locatiecatalogus) | [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/locatiecatalogus)](https://artifacthub.io/packages/helm/ocatiecatalogus/ocatiecatalogus) |
