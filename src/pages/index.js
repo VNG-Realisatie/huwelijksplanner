@@ -22,117 +22,163 @@ import authorizationImage from '../images/undraw_two_factor_authentication_namy.
 import dashboardImage from '../images/undraw_dashboard_nklg.svg'
 import integrationImage from '../images/undraw_hologram_fjwp.svg'
 
-const IndexPage = ({ location }) => (
-  <Layout>
-    <SEO title="Huwelijksplanner" />
-    <Background backgroundColor="#CC0000">
-      <Container>
-        <Navigation as="nav" location={location} />
-        <Section>
-          <Payoff />
-        </Section>
-      </Container>
-    </Background>
-    <Background backgroundColor="#2A5587">
-      <Container>
-        <Logos />
-      </Container>
-    </Background>
-    <Container>
-      <Section id="over-demodam">
-        <Flex>
-          <Box>
-            <p>Demodam is een fictieve gemeentewebsite die laat zien welke herbruikbare open source producten en diensten er beschikbaar zijn voor gemeenten. Op Demodam.nl kun je straks zien welke Common Ground componenten (bouwstenen) achter die diensten al klaar zijn en hoe ze met elkaar samenwerken. Gemeenten kunnen vervolgens besluiten om zo’n dienst, bijvoorbeeld een applicatie voor online geboorteaangifte, ook in te zetten voor hun inwoners. Ook is het mogelijk om verder te bouwen bovenop wat al beschikbaar is door zowel leveranciers als gemeenten.
-            NB: Deze website is in aanbouw.</p>
-          </Box>
-        </Flex>
-      </Section>
+const IndexPage = ({location}) => (
+    <Layout>
+        <SEO title="Huwelijksplanner"/>
+        <Background backgroundColor="#CC0000">
+            <Container>
+                <Navigation as="nav" location={location}/>
+                <Section>
+                    <Payoff/>
+                </Section>
+            </Container>
+        </Background>
+        <Background backgroundColor="#2A5587">
+            <Container>
+                <Logos/>
+            </Container>
+        </Background>
+        <Container>
+            <Section id="over-demodam">
+                <Flex>
+                    <Box>
+                        <h2>Inleiding</h2>
+                        <p>Met de huwelijksplanner ontwikkelen we een tool die het plannen van een huwelijk eenvoudiger
+                            maakt voor toekomstige bruidsparen. Zodat ze locatie, datum en trouwambtenaar digitaal
+                            kunnen plannen, gewoon vanaf de bank, in het weekend, zonder dat ze daar de gemeente voor
+                            nodig hebben voor extra toelichting.
+                        </p>
+                        <p>
+                            Bij het plannen van een huwelijk wordt meteen een melding, én er worden meteen checks
+                            uitgevoerd op het mogen trouwen. Zo weten stellen meteen of er geen bezwaren zijn. Het
+                            dossier, inclusief melding, wordt aangeleverd voor verwerking in de BRP en BS. Burgers wordt
+                            beter digitaal bediend, en acties voor ambtenaren worden beperkt (besparing).
+                        </p>
+                    </Box>
+                </Flex>
+            </Section>
 
-      <Section textAlign="center">
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jTK-sbee2qM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </Section>
+            {/*<Section textAlign="center">*/}
+            {/*  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jTK-sbee2qM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*/}
+            {/*</Section>*/}
 
-      <Section>
-        <Flex>
-          <Box width={2/5}>
-            <ResponsiveImage src={casesImage} alt="Illustratie van persoon en document" />
-          </Box>
-          <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 1</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </Box>
-        </Flex>
-      </Section>
+            <Section>
+                <Flex>
+                    <Box width={2 / 5}>
+                        <ResponsiveImage src={casesImage} alt="Illustratie van persoon en document"/>
+                    </Box>
+                    <Box width={3 / 5}>
+                        <h2>Historie</h2>
+                        <p>Het huwelijksplanner project is voortgekomen uit een samenvoeging van projecten van de
+                            gemeente Utrecht en de convenant gemeenten. Deze projecten hadden dermate veel overlap en
+                            aansluiting hadden dat in het kader van common ground en samen organiseren ze samen zijn
+                            gegaan.</p>
+                    </Box>
+                </Flex>
+            </Section>
 
-      <Section>
-        <Flex>
-          <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 2</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </Box>
-          <Box width={2/5}>
-            <ResponsiveImage src={selectionImage} alt="Illustratie van documenten met checklist" />
-          </Box>
-        </Flex>
-      </Section>
+            <Section>
+                <Flex>
+                    <Box width={3 / 5}>
+                        <h2>Wie</h2>
+                        <p>Het huwelijksplanner project wordt in co-creatie ontwikkeld door een aantal partijen.
+                            Vanuit de gemeenten nemen Utrecht, Almere en Hoorn deel. Conduction is vanaf het begin
+                            betrokken als ontwikkelende partij en gedurende het traject is daar Eend bij gekomen als
+                            expert op de front-end.
+                        </p>
+                    </Box>
+                    <Box width={2 / 5}>
+                        <ResponsiveImage src={selectionImage} alt="Illustratie van documenten met checklist"/>
+                    </Box>
+                </Flex>
+            </Section>
 
-      <Section>
-        <Flex>
-          <Box width={2/5}>
-            <ResponsiveImage src={authorizationImage} alt="Illustratie van desktop computer en mobiele applictie met een slot" />
-          </Box>
-          <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 3</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </Box>
-        </Flex>
-      </Section>
-
-      <Section>
-        <Flex>
-          <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 4</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </Box>
-          <Box width={2/5}>
-            <ResponsiveImage src={dashboardImage} alt="Illustratie van persoon met tablet waarop grafieken getoond worden" />
-          </Box>
-        </Flex>
-      </Section>
-
-      <Section>
-        <Flex>
-          <Box width={2/5}>
-            <ResponsiveImage src={integrationImage} alt="Abstracte illustratie met cirkels die verbinding maakt met andere figuren" />
-          </Box>
-          <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 5</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </Box>
-        </Flex>
-      </Section>
-
-    </Container>
-    <Background backgroundColor="#2A5587">
-      <Container>
-        <Section>
-          <Heading align="center" fontSize="2rem">Roadmap</Heading>
-        </Section>
-      </Container>
-    </Background>
-    <Container>
-      <Timeline>
-        <Timeline.Container align="left">
-          <Timeline.Content>
-            <Span fontSize="0.9rem">Juni 2021</Span>
-            <Heading as="h3" fontSize="1.5rem">Kick-off Demodam</Heading>
-            <p>Lancering van Demodam</p>
-          </Timeline.Content>
-        </Timeline.Container>
-      </Timeline>
-    </Container>
-    <Footer />
-  </Layout>
+        </Container>
+        <Background backgroundColor="#2A5587">
+            <Container>
+                <Section>
+                    <Heading align="center" fontSize="2rem">Roadmap</Heading>
+                </Section>
+            </Container>
+        </Background>
+        <Container>
+            <Timeline>
+                {/*<Timeline.Container align="left">*/}
+                {/*    <Timeline.Content>*/}
+                {/*        <Span fontSize="0.9rem">Juni 2021</Span>*/}
+                {/*        <Heading as="h3" fontSize="1.5rem">Kick-off Demodam</Heading>*/}
+                {/*        <p>Lancering van Demodam</p>*/}
+                {/*    </Timeline.Content>*/}
+                {/*</Timeline.Container>*/}
+                <Timeline.ContainerGreen align="left">
+                    <Timeline.Content>
+                        {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+                        <Heading as="h3" fontSize="1.5rem">Resultaat</Heading>
+                        <p>Huidige resultaten Utrecht en Convenant gemeenten in kaart brengen</p>
+                    </Timeline.Content>
+                </Timeline.ContainerGreen>
+                <Timeline.ContainerGreen align="right">
+                    <Timeline.Content>
+                        {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+                        <Heading as="h3" fontSize="1.5rem">Hergroeperen</Heading>
+                        <p>Wie gaat wat doen en wanneer</p>
+                    </Timeline.Content>
+                </Timeline.ContainerGreen>
+                <Timeline.ContainerGreen align="left">
+                    <Timeline.Content>
+                        {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+                        <Heading as="h3" fontSize="1.5rem">BPMn trouwproces ontwikkelen</Heading>
+                        {/*<p>Wie gaat wat doen en wanneer</p>*/}
+                    </Timeline.Content>
+                </Timeline.ContainerGreen>
+                <Timeline.ContainerGreen align="right">
+                    <Timeline.Content>
+                        {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+                        <Heading as="h3" fontSize="1.5rem">Betere aansluiting bij Common Ground</Heading>
+                        {/*<p>Wie gaat wat doen en wanneer</p>*/}
+                    </Timeline.Content>
+                </Timeline.ContainerGreen>
+                <Timeline.ContainerGreen align="left">
+                    <Timeline.Content>
+                        {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+                        <Heading as="h3" fontSize="1.5rem">Gebruikersonderzoek met trouw stellen</Heading>
+                        {/*<p>Wie gaat wat doen en wanneer</p>*/}
+                    </Timeline.Content>
+                </Timeline.ContainerGreen>
+                <Timeline.ContainerGreen align="right">
+                    <Timeline.Content>
+                        {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+                        <Heading as="h3" fontSize="1.5rem">UX redesign van de klantreis</Heading>
+                        {/*<p>Wie gaat wat doen en wanneer</p>*/}
+                    </Timeline.Content>
+                </Timeline.ContainerGreen>
+                <Timeline.ContainerGreen align="left">
+                    <Timeline.Content>
+                        {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+                        <Heading as="h3" fontSize="1.5rem">Opstellen implementatie routekaart</Heading>
+                        {/*<p>Wie gaat wat doen en wanneer</p>*/}
+                    </Timeline.Content>
+                </Timeline.ContainerGreen>
+                <Timeline.Container align="right">
+                    <Timeline.Content>
+                        {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+                        <Heading as="h3" fontSize="1.5rem">Ontwikkeling user interface “gratis trouwen”
+                        </Heading>
+                        {/*<p>Wie gaat wat doen en wanneer</p>*/}
+                    </Timeline.Content>
+                </Timeline.Container>
+                <Timeline.Container align="left">
+                    <Timeline.Content>
+                        {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+                        <Heading as="h3" fontSize="1.5rem">Implementatie “gratis trouwen”
+                        </Heading>
+                        {/*<p>Wie gaat wat doen en wanneer</p>*/}
+                    </Timeline.Content>
+                </Timeline.Container>
+            </Timeline>
+        </Container>
+        <Footer/>
+    </Layout>
 )
 
 export default IndexPage

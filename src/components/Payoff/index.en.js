@@ -1,7 +1,7 @@
 import React from 'react'
 import { StyledContainer, StyledSubParagraph, StyledTextContainer, StyledHeading, StyledParagraph, StyledIntro, StyledImage } from './index.styles.js'
 import ResponsiveImage from '../ResponsiveImage'
-import undraw_choosing_house_v37h from '../../images/undraw_choosing_house_v37h.svg'
+import couple_on_bike_near_city from '../../images/couple_on_bike_near_city.svg'
 
 const Payoff = () => (
   <StyledContainer>
@@ -14,7 +14,7 @@ const Payoff = () => (
       </StyledTextContainer>
     </StyledIntro>
     <StyledImage>
-      <ResponsiveImage src={undraw_choosing_house_v37h} alt="Illustration of woman walking down the street in city" />
+      <ResponsiveImage src={couple_on_bike_near_city} alt="Illustration of woman walking down the street in city" />
     </StyledImage>
   </StyledContainer>
 )
