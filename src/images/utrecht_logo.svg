@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+        "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+     width="64.000000pt" height="64.000000pt" viewBox="0 0 64.000000 64.000000"
+     preserveAspectRatio="xMidYMid meet">
+
+    <g transform="translate(8,2)">
+        <rect width="49" height="42.5" fill="#fff"/>
+        <polyline fill="#fff" points="0 0, 20 60, 49 44, 10 0"/>
+    </g>
+
+    <g transform="translate(0.000000,64.000000) scale(0.100000,-0.100000)"
+       fill="#CC0000" stroke="none">
+        <path d="M60 410 c0 -239 4 -255 79 -323 56 -50 101 -67 181 -67 82 0 127 17
+186 72 70 65 74 80 74 319 l0 209 -260 0 -260 0 0 -210z m498 188 c15 -15 17
+-336 2 -388 -22 -76 -14 -81 -251 156 -130 131 -219 226 -215 233 10 16 448
+15 464 -1z"/>
+    </g>
+
+</svg>

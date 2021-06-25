@@ -13,7 +13,7 @@ export default function Template({ data, location }) {
 
   return (
     <Layout>
-      <SEO title={post.frontmatter.title} />
+      <SEO title="Huwelijksplanner" />
       <Background backgroundColor="#CC0000">
 
       <nav>
