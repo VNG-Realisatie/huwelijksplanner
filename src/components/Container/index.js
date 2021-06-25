@@ -7,7 +7,7 @@ const Container = styled.div`
   max-width: ${(p) => p.theme.tokens.containerWidth};
   
   th {
-    text-align: right;
+    text-align: left;
   }
 `
 
