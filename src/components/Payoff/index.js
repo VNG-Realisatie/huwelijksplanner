@@ -10,7 +10,11 @@ const Payoff = () => (
         <StyledHeading>Huwelijksplanner</StyledHeading>
         <StyledParagraph>Een applicatie gebouwd op open source commonground componenten</StyledParagraph>
         <StyledSubParagraph>Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten als gebruikersinterface) waarmee gemeenten een goed werkend trouwproces kunnen inrichten. Daarmee voegen we waarde toe en ontzorgen de burger bij het plannen van een huwelijk.</StyledSubParagraph>
-        {/*<StyledSubParagraph><a target="_blank" href="https://componentencatalogus.commonground.nl/producten/74/omschrijving">Lees hier meer over de huwelijksplanner.</a></StyledSubParagraph>*/}
+        <StyledSubParagraph>
+            <h4><b>Snelle links:</b></h4>
+            <a target="_blank" href="https://github.com/VNG-Realisatie/huwelijksplanner">Github repository</a><br/>
+            <a target="_blank" href="https://componentencatalogus.commonground.nl/producten/74/omschrijving">VNG componenten catalogus</a>
+        </StyledSubParagraph>
       </StyledTextContainer>
     </StyledIntro>
     <StyledImage>
