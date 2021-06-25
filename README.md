@@ -9,10 +9,16 @@ Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten 
 * Backoffice van gemeenten die bij het huwelijksproces betrokken zijn, te ontlasten 
 
 # Te zetten stappen:
-* Huidige resultaten Utrecht en Convenant gemeenten in kaart brengen, documenteren en checken of ze passen in de nieuwe product visie en dubbelingen identificeren
-* BPMn trouwproces ontwikkelen
-* Hergroeperen (wie gaat wat doen, hoe gaan we verder)
-* (betere) aansluiting bij Common Ground
+- [X] Huidige resultaten Utrecht en Convenant gemeenten in kaart brengen, documenteren en checken of ze passen in de nieuwe product visie en dubbelingen identificeren
+- [X] Hergroeperen (wie gaat wat doen, hoe gaan we verder)
+- [X] BPMn trouwproces ontwikkelen
+- [X] Betere aansluiting bij Common Ground
+- [X] Gebruikersonderzoek met trouw stellen
+- [X] UX redesign van de klantreis
+- [X] Opstellen implementatie routekaart
+- [ ] Ontwikkeling user interface “gratis trouwen”
+- [ ] Implementatie “gratis trouwen”
+
 
 # Randvoorwaarden:
 * Voldoende beschikbare mensen en middelen
@@ -25,9 +31,9 @@ Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten 
 
 * **Component**: De naam van het component en link naar een voorbeeld implementatie
 * **Description**: Korte beschrijving van wat het component doet
-* **CI/CD**: Resultaat van de Continues Integration en Continues Delivery (Dev) straat, controleerd o.a. op werkenheid van de codebase, draaid test senarios en controleerd op known vulnerabilities
+* **CI/CD**: Resultaat van de Continuous Integration en Continuous Delivery (Dev) straat, controleert o.a. op werkelijkheid van de codebase, draait testscenario's en controleert op known vulnerabilities
 * **Style**: Resultaat van code check, zowel optimalisatie als leesbaarheid
-* **Issue**: Discusie issue over dit component
+* **Issue**: Discussie issue over dit component
 * **Repository**: Locatie van de code van het component
 
 | Component                        | Description | CI/CD Straat | StyleCI | Repository | Issue | 
