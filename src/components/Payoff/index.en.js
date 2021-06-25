@@ -10,7 +10,7 @@ const Payoff = () => (
         <StyledHeading>Wedding planner</StyledHeading>
         <StyledParagraph>An application built on open source commonground components</StyledParagraph>
         <StyledSubParagraph>With the wedding planner we realize components (both registration components and user interface) with which municipalities can set up a properly functioning wedding process. In this way we add value and unburden citizens when planning a wedding.</StyledSubParagraph>
-        <StyledSubParagraph><a target="_blank" href="https://componentencatalogus.commonground.nl/producten/74/omschrijving">Read more about the wedding planner.</a></StyledSubParagraph>
+        {/*<StyledSubParagraph><a target="_blank" href="https://componentencatalogus.commonground.nl/producten/74/omschrijving">Read more about the wedding planner.</a></StyledSubParagraph>*/}
       </StyledTextContainer>
     </StyledIntro>
     <StyledImage>
