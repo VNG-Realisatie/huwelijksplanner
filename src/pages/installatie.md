@@ -41,7 +41,7 @@ Om een component naar buiten open te zetten zijn er drie stappen nodig:
 Voordat de componenten werkbaar zijn zal de database moeten worden voorbereid. Dit doen we met behulp van het volgende commando:  
 bin/console doctrine:schema:update -f  
 
-Van componenten naar applicatie  
+## Van componenten naar applicatie  
 De huwelijksplanner applicatie bestaat uit een reeks van componenten, om ze gezamenlijk een applicatie te laten vormen is het noodzakelijk om ze te laten samenwerken. Hiervoor is het nodig om de centrale spin in het web (huwelijksplanner service) toegang te geven tot de componenten zodat zij deze kan inrichten. De daarvoor benodigde configuratie is opgenomen in de (helm) installatiebestanden en beschrijving van de huwelijksplanner ui (waar de huwelijksplanner service bij in zit). Installeer deze daarom als laatste en leest de installatiehandleiding en configuratie beschrijving zorgvuldig voordat u het component installeert.  
 
 ## Voorbeeld data
