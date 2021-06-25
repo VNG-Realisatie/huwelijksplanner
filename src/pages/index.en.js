@@ -42,13 +42,19 @@ const IndexPage = ({ location }) => (
       <Section id="about-demodam">
         <Flex>
           <Box>
-          <p>Demodam is a fictitious municipal website that shows which reusable open source products and services are available for municipalities. On Demodam.nl you will soon be able to see which Common Ground components (building blocks) behind those services are ready and how they work together. Municipalities can then decide to use such a service, for example an application for online birth registration, for their residents. It is also possible to build on top of what is already available by both suppliers and municipalities.</p>
-          </Box>
+            <h2>Introduction</h2>
+            <p>With the wedding planner we develop a tool that makes planning a wedding easier
+              makes for future bridal couples. So that they can record location, date and wedding official digitally
+              can plan, just from the couch, during the weekend, without having to contact the municipality for it
+              need for additional explanation.
+            </p>
+            <p>
+              When planning a wedding, a notification is immediately sent, and checks are immediately made
+              performed on being allowed to marry. In this way, respondents immediately know whether there are any objections. It
+              file, including notification, is submitted for processing in the BRP and BS. Citizens becomes
+              better served digitally, and actions for civil servants are limited (savings).
+            </p> </Box>
         </Flex>
-      </Section>
-
-      <Section textAlign="center">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jTK-sbee2qM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </Section>
 
       <Section>
@@ -57,56 +63,25 @@ const IndexPage = ({ location }) => (
             <ResponsiveImage src={casesImage} alt="Illustratie van persoon en document" />
           </Box>
           <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 1</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </Box>
+            <h2>History</h2>
+            <p>The wedding planner project arose from a merger of projects from the
+              municipality of Utrecht and the covenant municipalities. These projects had such a lot of overlap and
+              connected that in the context of common ground and together they organize being together
+              gone. </p></Box>
         </Flex>
       </Section>
 
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 2</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </Box>
+            <h2>Who</h2>
+            <p>The wedding planner project is being developed in co-creation by a number of parties.
+              Utrecht, Almere and Hoorn are participating from the municipalities. Conduction is from the start
+              involved as a developing party and during the process, Eend joined as
+              expert on the front end.
+            </p> </Box>
           <Box width={2/5}>
             <ResponsiveImage src={selectionImage} alt="Illustratie van documenten met checklist" />
-          </Box>
-        </Flex>
-      </Section>
-
-      <Section>
-        <Flex>
-          <Box width={2/5}>
-            <ResponsiveImage src={authorizationImage} alt="Illustratie van desktop computer en mobiele applictie met een slot" />
-          </Box>
-          <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 3</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </Box>
-        </Flex>
-      </Section>
-
-      <Section>
-        <Flex>
-          <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 4</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </Box>
-          <Box width={2/5}>
-            <ResponsiveImage src={dashboardImage} alt="Illustratie van persoon met tablet waarop grafieken getoond worden" />
-          </Box>
-        </Flex>
-      </Section>
-
-      <Section>
-        <Flex>
-          <Box width={2/5}>
-            <ResponsiveImage src={integrationImage} alt="Abstracte illustratie met cirkels die verbinding maakt met andere figuren" />
-          </Box>
-          <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 5</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </Box>
         </Flex>
       </Section>
@@ -121,11 +96,69 @@ const IndexPage = ({ location }) => (
     </Background>
     <Container>
       <Timeline>
+        <Timeline.ContainerGreen align="left">
+          <Timeline.Content>
+            {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+            <Heading as="h3" fontSize="1.5rem">Result</Heading>
+            <p>Mapping current results of Utrecht and the Covenant Municipalities</p>
+          </Timeline.Content>
+        </Timeline.ContainerGreen>
+        <Timeline.ContainerGreen align="right">
+          <Timeline.Content>
+            {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+            <Heading as="h3" fontSize="1.5rem">Regroup</Heading>
+            <p>Who is going to do what and when</p>
+          </Timeline.Content>
+        </Timeline.ContainerGreen>
+        <Timeline.ContainerGreen align="left">
+          <Timeline.Content>
+            {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+            <Heading as="h3" fontSize="1.5rem">BPMn developing wedding <br/> process</Heading>
+            {/*<p>Wie gaat wat doen en wanneer</p>*/}
+          </Timeline.Content>
+        </Timeline.ContainerGreen>
+        <Timeline.ContainerGreen align="right">
+          <Timeline.Content>
+            {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+            <Heading as="h3" fontSize="1.5rem">Better connection to <br/> Common Ground</Heading>
+            {/*<p>Wie gaat wat doen en wanneer</p>*/}
+          </Timeline.Content>
+        </Timeline.ContainerGreen>
+        <Timeline.ContainerGreen align="left">
+          <Timeline.Content>
+            {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+            <Heading as="h3" fontSize="1.5rem">User research with fidelity</Heading>
+            {/*<p>Wie gaat wat doen en wanneer</p>*/}
+          </Timeline.Content>
+        </Timeline.ContainerGreen>
+        <Timeline.ContainerGreen align="right">
+          <Timeline.Content>
+            {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+            <Heading as="h3" fontSize="1.5rem">UX redesign of the customer <br/> journey</Heading>
+            {/*<p>Wie gaat wat doen en wanneer</p>*/}
+          </Timeline.Content>
+        </Timeline.ContainerGreen>
+        <Timeline.ContainerGreen align="left">
+          <Timeline.Content>
+            {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+            <Heading as="h3" fontSize="1.5rem">Drawing up implementation <br/>roadmap</Heading>
+            {/*<p>Wie gaat wat doen en wanneer</p>*/}
+          </Timeline.Content>
+        </Timeline.ContainerGreen>
+        <Timeline.Container align="right">
+          <Timeline.Content>
+            {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+            <Heading as="h3" fontSize="1.5rem">Development user interface <br/> “free marriage”
+            </Heading>
+            {/*<p>Wie gaat wat doen en wanneer</p>*/}
+          </Timeline.Content>
+        </Timeline.Container>
         <Timeline.Container align="left">
           <Timeline.Content>
-            <Span fontSize="0.9rem">June 2021</Span>
-            <Heading as="h3" fontSize="1.5rem">Kick-off Demodam</Heading>
-            <p>Launch of Demodam</p>
+            {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
+            <Heading as="h3" fontSize="1.5rem">Implementation <br/> “free marriage”
+            </Heading>
+            {/*<p>Wie gaat wat doen en wanneer</p>*/}
           </Timeline.Content>
         </Timeline.Container>
       </Timeline>

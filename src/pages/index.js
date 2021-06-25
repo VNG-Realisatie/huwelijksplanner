@@ -134,14 +134,14 @@ const IndexPage = ({location}) => (
                 <Timeline.ContainerGreen align="right">
                     <Timeline.Content>
                         {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
-                        <Heading as="h3" fontSize="1.5rem">Betere aansluiting bij Common Ground</Heading>
+                        <Heading as="h3" fontSize="1.5rem">Betere aansluiting bij <br/> Common Ground</Heading>
                         {/*<p>Wie gaat wat doen en wanneer</p>*/}
                     </Timeline.Content>
                 </Timeline.ContainerGreen>
                 <Timeline.ContainerGreen align="left">
                     <Timeline.Content>
                         {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
-                        <Heading as="h3" fontSize="1.5rem">Gebruikersonderzoek met trouw stellen</Heading>
+                        <Heading as="h3" fontSize="1.5rem">Gebruikersonderzoek met <br/> trouw stellen</Heading>
                         {/*<p>Wie gaat wat doen en wanneer</p>*/}
                     </Timeline.Content>
                 </Timeline.ContainerGreen>
@@ -155,14 +155,14 @@ const IndexPage = ({location}) => (
                 <Timeline.ContainerGreen align="left">
                     <Timeline.Content>
                         {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
-                        <Heading as="h3" fontSize="1.5rem">Opstellen implementatie routekaart</Heading>
+                        <Heading as="h3" fontSize="1.5rem">Opstellen implementatie <br/> routekaart</Heading>
                         {/*<p>Wie gaat wat doen en wanneer</p>*/}
                     </Timeline.Content>
                 </Timeline.ContainerGreen>
                 <Timeline.Container align="right">
                     <Timeline.Content>
                         {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
-                        <Heading as="h3" fontSize="1.5rem">Ontwikkeling user interface “gratis trouwen”
+                        <Heading as="h3" fontSize="1.5rem">Ontwikkeling user interface <br/>“gratis trouwen”
                         </Heading>
                         {/*<p>Wie gaat wat doen en wanneer</p>*/}
                     </Timeline.Content>
@@ -170,7 +170,7 @@ const IndexPage = ({location}) => (
                 <Timeline.Container align="left">
                     <Timeline.Content>
                         {/*<Span fontSize="0.9rem">Juni 2021</Span>*/}
-                        <Heading as="h3" fontSize="1.5rem">Implementatie “gratis trouwen”
+                        <Heading as="h3" fontSize="1.5rem">Implementatie <br/> “gratis trouwen”
                         </Heading>
                         {/*<p>Wie gaat wat doen en wanneer</p>*/}
                     </Timeline.Content>

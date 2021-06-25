@@ -2,7 +2,7 @@
 # Installation
 The wedding planner application consists of a number of components and one/several ui's built according to the [commonground five-layer model]. Underlying components can be shared between applications, so we recommend installing only new components and reusing existing components. If you want more insight into a component you can click on the title for the VNG components catalog or look in the github repository for more detailed descriptions and the source code files.  
 
-All components are available as a docker container via github packages (due to the download maximum on dockerhub.io), the contianers can therefore be found directly at the repositories. HELM installation files are also available for all components. You can find these in the component's repository (github) as well as in the official HELM hub (artifacthub.io).
+All components are available as a docker container via github packages (due to the download maximum on dockerhub.io), the containers can therefore be found directly at the repositories. HELM installation files are also available for all components. You can find these in the component's repository (github) as well as in the official HELM hub (artifacthub.io).
 ## Componenten
 It is recommendend to install the components in the given order  
 
@@ -21,16 +21,32 @@ It is recommendend to install the components in the given order
 | [brpservice](https://componentencatalogus.commonground.nl/producten/74/componenten/128)  | [GitHub](https://github.com/ConductionNL/brpservice) | [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/brpservice)](https://artifacthub.io/packages/helm/brpservice/brpservice) |  
 | [instemmingservice](https://componentencatalogus.commonground.nl/producten/74/componenten/22) | [GitHub](https://github.com/ConductionNL/instemmingservice) | [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/instemmingservice)](https://artifacthub.io/packages/helm/instemmingservice/instemmingservice) | 
 | [orderregistratiecomponent](https://componentencatalogus.commonground.nl/producten/74/componenten/11) |  [GitHub](https://github.com/ConductionNL/orderregistratiecomponent) | [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/orderregistratiecomponent)](https://artifacthub.io/packages/helm/orderregistratiecomponent/orderregistratiecomponent) |
-| [user-component](https://componentencatalogus.commonground.nl/componenten/32?query=user) | [GitHub](https://github.com/ConductionNL/user-component) | [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/user-component)](https://artifacthub.io/packages/helm/user-component/user-component) |
+| [user-component](https://componentencatalogus.commonground.nl/componenten/32) | [GitHub](https://github.com/ConductionNL/user-component) | [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/user-component)](https://artifacthub.io/packages/helm/user-component/user-component) |
 | [memocomponent](https://componentencatalogus.commonground.nl/producten/74/componenten/122) | [GitHub](https://github.com/ConductionNL/memo-component) | [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/memo-component)](https://artifacthub.io/packages/helm/memo-component/memo-component) |
 | [procestypecatalogus](https://componentencatalogus.commonground.nl/producten/74/componenten/125) | [GitHub](https://github.com/ConductionNL/procestypecatalogus) | [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/procestypecatalogus)](https://artifacthub.io/packages/helm/procestypecatalogus/procestypecatalogus) |
 | [landelijketabellencatalogus](https://componentencatalogus.commonground.nl/producten/74/componenten/14) | [GitHub](https://github.com/ConductionNL/landelijketabellencatalogus) | [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/landelijketabellencatalogus)](https://artifacthub.io/packages/helm/landelijketabellencatalogus/landelijketabellencatalogus) |
 | instemmingsregistratiecomponent | [GitHub](https://github.com/ConductionNL/instemming-registratie-component) | [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/instemming-registratie-component)](https://artifacthub.io/packages/helm/instemming-registratie-component/irc) |
-| [trouwservice](https://componentencatalogus.commonground.nl/producten/74/componenten/195) | [GitHub](https://github.com/ConductionNL/trouwservice) | [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/trouwservice)](https://artifacthub.io/packages/helm/trouw-service/trouw-service) |
+| [trouwservice](https://componentencatalogus.commonground.nl/producten/74/componenten/195) | [GitHub](https://github.com/ConductionNL/trouw-service) | [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/trouwservice)](https://artifacthub.io/packages/helm/trouw-service/trouw-service) |
 | [digispoof](https://componentencatalogus.commonground.nl/producten/74/componenten/171) | [GitHub](https://github.com/ConductionNL/digispoof)| [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/digispoof)](https://artifacthub.io/packages/helm/digispoof-interface/digispoof-interface) |
-| [Huwelijksplanner UI](https://componentencatalogus.commonground.nl/producten/74/componenten/36) |[GitHub](https://github.com/ConductionNL/huwelijksplanner-ui) |  [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/agendaservice)](https://artifacthub.io/packages/helm/agendaservice/agendaservice) |
+| [Huwelijksplanner UI](https://componentencatalogus.commonground.nl/producten/74/componenten/36) |[GitHub](https://github.com/ConductionNL/huwelijksplanner-ui) |  [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/huwelijksplanner)](https://artifacthub.io/packages/helm/huwelijksplanner/huwelijksplanner) |
 
 ## Configuration
-The configuration of the various components takes place via the helm installation of that component, follow the manual supplied with the component.
+The configuration of the various components takes place via the helm installation of that component, follow the manual supplied with the component. However, there is a general point for all components regarding making these components externally accessible:  
+
+To open a component to the web, three steps are required:
+1. The value ingress.enabled must be true
+2. The value ingress.host must contain a hostname routed to the load balancer
+3. The value path must be correct. For an application this can be /, but for components /api/v1/{component name} or /api/v1/{component code} is recommended
+
+Before the components are functional, the database will have to be prepared. We do this using the following command:  
+bin/console doctrine:schema:update -f
+
 ## Example data
-After the configuration is completed, prefaces can be chosen to load a move with sample data (for example for demo purposes). To do this, perform the following steps
+After the configuration has been completed, prefaces can be chosen to load a move with sample data (for example for demo purposes). To load sample data, this data must be loaded on three components in sequence after the dependencies of the relevant component have been set:
+- landelijketabellencatalogus
+- brpservice
+- trouw-service
+
+The following command must be run on these components in the php container:  
+bin/console doctrine:fixtures:load -n  
+The Trouw Service will also send sample data to the other components. 
