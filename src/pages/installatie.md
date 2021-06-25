@@ -1,6 +1,8 @@
   
 # Installatie
-De huwelijksplanner applicatie bestaat uit een aantal componenten en een/meerdere ui’s opgebouwd volgens het [commonground vijflagen model]. Hierbij kunnen onderliggende componenten worden gedeeld tussen applicaties, we raden daarom aan om alleen nieuwe componenten te installeren en reeds bestaande componenten te hergebruiken.
+De huwelijksplanner applicatie bestaat uit een aantal componenten en een/meerdere ui’s opgebouwd volgens het [commonground vijflagen model]. Hierbij kunnen onderliggende componenten worden gedeeld tussen applicaties, we raden daarom aan om alleen nieuwe componenten te installeren en reeds bestaande componenten te hergebruiken.  Als u meer inzicht van een component wilt kunt u op de titel klikken voor de VNG componenten catalogus of in de github repository kijken voor uitgebreidere beschrijvingen en  de broncode bestanden.  
+
+Alle componenten zijn als docker container beschikbaar via github packages (in verband met het download maximum op dockerhub.io), de contianers vind u derhalve rechtstreeks bij de repositories. Voor alle componenten zijn tevens HELM installatie bestanden beschikbaar. Deze kunt u zowel in de repositorie van het component terug vinden (github) als in de officieel HELM  hub (artifacthub.io).
 ## Componenten
 Het verdient een aanbeveling om de componenten in de hier weergegeven volgorde te installeren  
 
