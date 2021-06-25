@@ -1,0 +1,26 @@
+{
+  "nl": [
+    {
+      "title": "Installatie",
+      "link": "/installatie",
+      "partiallyActive": true
+    },
+    {
+      "title": "Contact",
+      "link": "/contact",
+      "partiallyActive": false
+    }
+  ],
+  "en": [
+    {
+      "title": "Installation",
+      "link": "/en/installatie",
+      "partiallyActive": true
+    },
+    {
+      "title": "Contact",
+      "link": "/en/contact",
+      "partiallyActive": false
+    }
+  ]
+}
