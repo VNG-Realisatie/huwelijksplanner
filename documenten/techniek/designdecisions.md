@@ -56,3 +56,11 @@ Welke koppelingen worden vanuit de Huwelijksplanner:
 - Huwelijksdossier
 	-Koppeling met burgerzaken applicatie
 
+- Gebruikers authenticatie
+	- Koppelen met ADFS voorziening van een gemeente
+	- Username & password + MFA voor identiteiten waarbij geen gebruik gemaakt kan worden van een centrale identity store.
+	
+**Inzet business proces engine**
+
+Voor de MVP gebruiken we nog geen proces engine. Keuzes voor na de MVP:
+We zetten in op Camunda Community Edition als proces engine.
