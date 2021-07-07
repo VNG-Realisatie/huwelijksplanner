@@ -15,6 +15,10 @@ We gebruiken NLX voor elke call waarbij vertrouwelijke gegevens worden opgevraag
 We hanteren semantic versioning. 
 We hanteren https://docs.geostandaarden.nl/api/API-Strategie/#versioning  als uitgangspunt voor versiebeheer
 
+Api Versioning
+-------
+As per [landelijke API-strategie.](https://docs.geostandaarden.nl/api/API-Strategie/#versioning) we provide/ask major versions in the endpoint and minor versions in header, for this the `API-Version` is used (instead of the `api-version` header used in haal centraal). The major version gets a new increment when breaking changes are applied. Non breaking, minor changes will lead to a minor version increments.
+
 
 **Keuzes over het maken van zaken**
 
