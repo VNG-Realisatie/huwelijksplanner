@@ -27,6 +27,9 @@ Met de huwelijksplanner realiseren we componenten (zowel registratiecomponenten 
 
 # Snelle links
 
+**Installatiehandleiding Huwelijksplanner**
+https://huwelijksplanner.online/installatie/
+
 **Referentie-implementaties van componenten**
 
 * **Component**: De naam van het component en link naar een voorbeeld implementatie
